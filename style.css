@@ -1,0 +1,184 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #262626;
+	font-family: sans-serif;
+}
+
+form{
+		width: 1300px;
+		margin:auto;
+		margin-top:20px;
+		margin-bottom: 20px;
+		/* background: yellow; */
+		display: flex;
+		position: relative;
+		left: -100px;
+
+}
+.avatar{
+	margin:10px 10px;
+	width: 30%;
+	height: 40px; 
+	border-radius: 50%;
+	height: 50px;
+
+}
+.search{
+	width: 40%;
+	padding: 10px;
+	font-size: 20px;
+	border-radius: 20px;
+	margin:10px 10px;
+	height: 20px;
+	
+
+		}
+.submit{
+	width: 10%;
+	
+	font-size: 20px;
+	color: black;
+	border-radius: 20px;
+	margin:10px 10px;
+	height: 30px;
+	position: relative;
+	top: 7px;
+		}
+.submit2 {
+	/* width: 10%; */
+	
+	font-size: 15px;
+	color: white;
+	border-radius: 20px;
+	margin:10px 10px 10px 300px;
+	
+	height: 30px;
+	
+
+
+}
+.submit2 a{
+	color: black;
+	text-decoration: none;
+	font-family: 'poppins',sans-serif;
+	font-size: 18px;
+	text-shadow: 0px 2px 8px black;
+}
+.submit:hover
+{
+	cursor: pointer;
+	background: #808080;
+	color: #000;
+}
+.submit2:hover
+{
+	cursor: pointer;
+	background: #808080;
+	color: #000;
+}
+select.selector
+{
+	/* style the selecot here */
+	border-radius: 10px;
+	height: 20px;
+	position: relative;
+	top: 25px;
+}
+.hone
+{
+	width: 1280px;
+	margin: 90px auto 0;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.container
+{
+	width: 1280px;
+	margin: 90px auto 0;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+.container .box
+{
+	position: relative;
+	width: 300px;
+	height: 300px;
+	/*background: #ff0; */
+	background-image:linear-gradient(rgba(0,0,0,0.3	),rgba(0,0,0,0.3));
+	margin: 10px;
+	box-sizing: border-box;
+	display: inline-block;
+	text-align: left;
+}
+.container .box .imgBox
+{
+	position: relative;
+	overflow: hidden;
+}
+.container .box .imgBox img
+{
+	max-width: 100%;
+	max-height: 100%;
+	display: block;
+	object-fit: cover;
+	transition: transform 2s;
+	padding: 5px;
+	/* margin: 10px; */
+}
+.container .box:hover .imgBox img
+{
+	transform: scale(1.2);
+}
+.container .box .details
+{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	bottom: 10px;
+	right: 10px;
+	background:rgb(0,0,0,0.8);
+	transform: scaleY(0);
+	transition: transform .5s;
+}
+.container .box:hover .details
+{
+	transform: scaleY(1);
+}
+.container .box .details .content
+{
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	text-align: center;
+	padding: 15px;
+	color: #fff;
+}
+.container .box .details .content h2
+{
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+	color: #ff0;
+}
+.container .box .details .content p
+{
+	margin: 10px 0 0;
+	padding: 0;
+	
+}
+img{
+	width: 290px;
+	height: 290px;
+	position: center;
+
+}
+
+div.option a
+{
+	
+}

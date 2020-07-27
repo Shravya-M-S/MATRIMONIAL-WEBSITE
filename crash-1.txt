@@ -1,0 +1,77 @@
+date/time         : 2020-05-21, 12:37:41, 521ms
+computer name     : HP03-PC
+user name         : SYSTEM <admin>
+registered owner  : Windows User
+operating system  : Windows 7 x64 Service Pack 1 build 7601
+system language   : English
+system up time    : 26 minutes 14 seconds
+program up time   : 5 seconds
+processors        : 4x Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz
+physical memory   : 1302/3960 MB (free/total)
+free disk space   : (C:) 58.14 GB
+display mode      : 1024x768, 32 bit
+process id        : $13d4
+allocated memory  : 13.20 MB
+command line      : C:\wamp\sendmail\sendmail.exe -t -i -fsupritha.m.bhatt1999@gmail.com
+executable        : sendmail.exe
+exec. date/time   : 2020-05-08 10:45
+compiled with     : Delphi 2006/07
+madExcept version : 3.0l
+callstack crc     : $fecf9b34, $0fff1bcb, $0fff1bcb
+exception number  : 1
+exception class   : EIdSMTPReplyError
+exception message : Temporary System Problem. Try again later (10). m14sm3278638pgn.83 - gsmtp.
+
+main thread ($10d4):
+0045918a +003e sendmail.exe IdReplySMTP     501   +1 TIdReplySMTP.RaiseReplyError
+0043ff28 +0008 sendmail.exe IdTCPConnection 576   +0 TIdTCPConnection.RaiseExceptionForLastCmdResult
+004402f4 +003c sendmail.exe IdTCPConnection 751  +10 TIdTCPConnection.CheckResponse
+0043feba +002a sendmail.exe IdTCPConnection 565   +2 TIdTCPConnection.GetResponse
+0043ff87 +005b sendmail.exe IdTCPConnection 585   +4 TIdTCPConnection.SendCmd
+004b6439 +1585 sendmail.exe sendmail        864 +382 initialization
+76a8344b +0010 kernel32.dll                          BaseThreadInitThunk
+
+thread $117c:
+77e21f6f +0b ntdll.dll     NtWaitForWorkViaWorkerFactory
+76a8344b +10 kernel32.dll  BaseThreadInitThunk
+
+thread $1240:
+77e20186 +0e ntdll.dll     NtWaitForMultipleObjects
+76a8344b +10 kernel32.dll  BaseThreadInitThunk
+
+stack dump:
+0018fd3c  8f 91 45 00 de fa ed 0e - 01 00 00 00 07 00 00 00  ..E.............
+0018fd4c  50 fd 18 00 8f 91 45 00 - 48 cb b1 00 c0 1d b3 00  P.....E.H.......
+0018fd5c  00 00 00 00 a5 01 00 00 - 80 fd 18 00 6c fd 18 00  ............l...
+0018fd6c  c0 fd 18 00 c8 4b 40 00 - 80 fd 18 00 34 a5 45 00  .....K@.....4.E.
+0018fd7c  00 00 00 00 9c fd 18 00 - 2b ff 43 00 f7 02 44 00  ........+.C...D.
+0018fd8c  00 00 00 00 a4 fe 18 00 - a4 fe 18 00 40 40 ad 00  ............@@..
+0018fd9c  b4 fd 18 00 bd fe 43 00 - 00 00 00 00 94 34 46 00  ......C......4F.
+0018fdac  00 00 00 00 34 a5 45 00 - e0 fd 18 00 8a ff 43 00  ....4.E.......C.
+0018fdbc  00 00 00 00 f0 fd 18 00 - c8 4b 40 00 e0 fd 18 00  .........K@.....
+0018fdcc  34 a5 45 00 ff ff ff ff - 34 a5 45 00 a4 fe 18 00  4.E.....4.E.....
+0018fddc  00 00 00 00 88 ff 18 00 - 3f 64 4b 00 00 00 00 00  ........?dK.....
+0018fdec  00 00 00 00 fc fd 18 00 - c8 4b 40 00 88 ff 18 00  .........K@.....
+0018fdfc  08 fe 18 00 c8 4b 40 00 - 88 ff 18 00 14 fe 18 00  .....K@.........
+0018fe0c  5f 4d 40 00 88 ff 18 00 - 7c ff 18 00 c8 4b 40 00  _M@.....|....K@.
+0018fe1c  88 ff 18 00 00 00 00 00 - 00 00 00 00 00 e0 fd 7e  ...............~
+0018fe2c  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0018fe3c  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0018fe4c  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0018fe5c  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+0018fe6c  00 00 00 00 00 00 00 00 - 00 00 00 00 00 00 00 00  ................
+
+disassembling:
+[...]
+00459177       call    -$1f480 ($439cfc)      ; IdReply.TIdReply.GetNumericCode
+0045917c       mov     ecx, eax
+0045917e       mov     dl, 1
+00459180       mov     eax, [$458844]
+00459185       call    +$182 ($45930c)        ; IdReplySMTP.EIdSMTPReplyError.CreateError
+0045918a     > call    -$544a3 ($404cec)      ; System.@RaiseExcept
+0045918f 502   xor     eax, eax
+00459191       pop     edx
+00459192       pop     ecx
+00459193       pop     ecx
+00459194       mov     fs:[eax], edx
+[...]

@@ -1,0 +1,57 @@
+body
+{
+	margin:0;
+	padding:0;
+	text-align: center;
+	background: #333;
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+
+}
+.container
+{
+	margin: 10px 10px;
+	padding: 0;
+	height: 800px;
+	width: 1000px; 
+	display:block;
+	justify-content: center; 
+	float: left; 
+	/* border: 1px solid rgba(0,0,0,0.5);*/
+
+}
+.container
+{
+	
+	
+	
+	position:relative;
+
+}
+.container .chal img
+{
+	max-width: 200px;
+	max-width: 200px;
+	border: 1px solid rgba(0,0,0,0.5);
+	
+
+}
+.container .chal:hover img
+{
+	max-width: 250px;
+	max-width: 250px;
+	
+	border: 1px solid rgba(0,0,0,0.5);
+
+
+}
+.container .chal .des 
+{
+	width: 200px;
+	height: 200px;
+	position:absolute;
+	margin: 20px;
+	border: 1px solid rgba(0,0,0,0.5);
+	
+}

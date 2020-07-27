@@ -1,0 +1,10 @@
+<?php
+session_start();
+session_destroy();
+unset($_SESSION['email']);
+unset($_SESSION['contact']);
+if(1)
+{
+header("location:../Welcome.php");
+}
+?>

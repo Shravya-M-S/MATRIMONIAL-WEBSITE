@@ -1,0 +1,9 @@
+div.one
+{
+	text-align: left;
+	background: blue;
+	position: absolute;
+	margin: 0;
+	padding: 0;
+	left: 800px;
+}

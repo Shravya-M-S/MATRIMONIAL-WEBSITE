@@ -1,0 +1,16 @@
+body
+{
+	background-image: url(../Desktop5.jpg);
+}
+
+
+.hello{
+	
+	height: 800px;
+	width: 430px;
+	position: relative;
+	background-image: linear-gradient(to bottom right, #FFFACD,#B22222);
+	/*background: #2F4F4F;*/
+	top: 80px;
+	left: 200px;
+}

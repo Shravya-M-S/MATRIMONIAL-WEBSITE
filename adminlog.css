@@ -1,0 +1,31 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	
+}
+table,th,td{
+	border:1px solid black;
+}
+th,td{
+	padding: 10px;
+}
+.container
+{
+
+}
+.button{
+
+	margin-top: 20px;
+	margin-left: 1380px;
+	border: 1px solid #CC9933;
+	background: none;
+	padding: 10px 25px;
+	font-size: 18px;
+	font-family: "montserrat";
+	cursor:pointer;
+	color: #CC9933;
+}
+.button::hover {
+	color: #fff;
+}

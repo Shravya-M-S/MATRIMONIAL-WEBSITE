@@ -1,0 +1,50 @@
+body{
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) , url(../images/background.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+
+}
+div.one3{
+	
+	text-align: center;
+	position: absolute;
+	border: 3px solid black;
+	padding: 5px 10px;
+	width: 650px;
+	height: 250px;
+	top: 200px;
+	left: 500px;
+	background-image: linear-gradient(to bottom right, #FFFACD,#B22222);
+	font-family:sans-serif;
+	font-size: 20px;
+	border-radius: 5px;
+}
+
+div.two3 a{
+	position: relative;
+	text-decoration: none;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 7px 10px;
+	font-size: 15px;
+	font-weight:600;
+	color: black;
+	background:pink; 
+	margin: 10px ;
+	width: 100px;
+	transition: .6s;
+	overflow: hidden;
+	bottom: 3px;
+	left: 200px;
+
+
+}
+div.two3 a:hover{
+	/* opacity: 1; */
+	background: #FFE4E1;
+}
+

@@ -1,0 +1,1345 @@
+20-05-14 13:10:04 ** --- MESSAGE BEGIN ---
+20-05-14 13:10:04 ** To: localhost.project2020web@gmail.com
+20-05-14 13:10:04 ** Subject: first mail
+20-05-14 13:10:04 ** From: project2020web@gmail.com
+20-05-14 13:10:04 ** 
+20-05-14 13:10:04 ** heya ur happy
+20-05-14 13:10:04 ** --- MESSAGE END ---
+20-05-14 13:10:05 ** Connecting to smtp.gmail.com:465
+20-05-14 13:10:07 ** Connected.
+20-05-14 13:10:07 << 220 smtp.gmail.com ESMTP k24sm1537812pfk.134 - gsmtp<EOL>
+20-05-14 13:10:07 >> EHLO localhost<EOL>
+20-05-14 13:10:07 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-14 13:10:07 ** Authenticating as project2020web@gmail.com
+20-05-14 13:10:07 >> AUTH LOGIN<EOL>
+20-05-14 13:10:08 << 334 VXNlcm5hbWU6<EOL>
+20-05-14 13:10:08 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-14 13:10:08 << 334 UGFzc3dvcmQ6<EOL>
+20-05-14 13:10:08 >> a2lubnVrdXR0eQ==<EOL>
+20-05-14 13:10:09 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials k24sm1537812pfk.134 - gsmtp<EOL>
+20-05-14 13:10:09 ** Disconnecting from smtp.gmail.com:465
+20-05-14 13:10:09 ** Disconnected.
+20-05-14 13:10:09 ** Disconnected.
+20-05-14 13:10:09 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials k24sm1537812pfk.134 - gsmtp<EOL>
+20-05-14 13:24:06 ** --- MESSAGE BEGIN ---
+20-05-14 13:24:06 ** To: localhost.project2020web@gmail.com
+20-05-14 13:24:06 ** Subject: first mail
+20-05-14 13:24:06 ** From: project2020web@gmail.com
+20-05-14 13:24:06 ** 
+20-05-14 13:24:06 ** heya ur happy
+20-05-14 13:24:06 ** --- MESSAGE END ---
+20-05-14 13:24:06 ** Connecting to smtp.gmail.com:465
+20-05-14 13:24:07 ** Connected.
+20-05-14 13:24:07 << 220 smtp.gmail.com ESMTP l6sm1614340pfl.128 - gsmtp<EOL>
+20-05-14 13:24:07 >> EHLO localhost<EOL>
+20-05-14 13:24:07 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-14 13:24:07 ** Authenticating as project2020web@gmail.com
+20-05-14 13:24:07 >> AUTH LOGIN<EOL>
+20-05-14 13:24:07 << 334 VXNlcm5hbWU6<EOL>
+20-05-14 13:24:07 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-14 13:24:08 << 334 UGFzc3dvcmQ6<EOL>
+20-05-14 13:24:08 >> a2lubnVrdXR0eQ==<EOL>
+20-05-14 13:24:08 << 235 2.7.0 Accepted<EOL>
+20-05-14 13:24:08 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-14 13:24:08 << 250 2.1.0 OK l6sm1614340pfl.128 - gsmtp<EOL>
+20-05-14 13:24:08 >> RCPT TO: <localhost.project2020web@gmail.com><EOL>
+20-05-14 13:24:09 << 250 2.1.5 OK l6sm1614340pfl.128 - gsmtp<EOL>
+20-05-14 13:24:09 >> DATA<EOL>
+20-05-14 13:24:09 << 354  Go ahead l6sm1614340pfl.128 - gsmtp<EOL>
+20-05-14 13:24:09 >> Date: Thu, 14 May 2020 13:24:09 +0530<EOL>
+20-05-14 13:24:09 >> To: localhost.project2020web@gmail.com<EOL>
+20-05-14 13:24:09 >> Subject: first mail<EOL>
+20-05-14 13:24:09 >> From: project2020web@gmail.com<EOL>
+20-05-14 13:24:09 >> <EOL>
+20-05-14 13:24:09 >> heya ur happy<EOL>
+20-05-14 13:24:09 >> .<EOL>
+20-05-14 13:24:10 << 250 2.0.0 OK  1589442848 l6sm1614340pfl.128 - gsmtp<EOL>
+20-05-14 13:24:10 >> QUIT<EOL>
+20-05-14 13:24:11 << 221 2.0.0 closing connection l6sm1614340pfl.128 - gsmtp<EOL>
+20-05-14 13:24:11 ** Disconnecting from smtp.gmail.com:465
+20-05-14 13:24:11 ** Disconnected.
+20-05-14 13:24:11 ** Disconnected.
+20-05-14 13:25:21 ** --- MESSAGE BEGIN ---
+20-05-14 13:25:21 ** To: localhost.supritha.m.bhatt1999@gmail.com
+20-05-14 13:25:21 ** Subject: first mail
+20-05-14 13:25:21 ** From: project2020web@gmail.com
+20-05-14 13:25:21 ** 
+20-05-14 13:25:21 ** heya ur happy
+20-05-14 13:25:21 ** --- MESSAGE END ---
+20-05-14 13:25:21 ** Connecting to smtp.gmail.com:465
+20-05-14 13:25:22 ** Connected.
+20-05-14 13:25:22 << 220 smtp.gmail.com ESMTP z66sm1570827pfz.141 - gsmtp<EOL>
+20-05-14 13:25:22 >> EHLO localhost<EOL>
+20-05-14 13:25:23 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-14 13:25:23 ** Authenticating as project2020web@gmail.com
+20-05-14 13:25:23 >> AUTH LOGIN<EOL>
+20-05-14 13:25:23 << 334 VXNlcm5hbWU6<EOL>
+20-05-14 13:25:23 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-14 13:25:23 << 334 UGFzc3dvcmQ6<EOL>
+20-05-14 13:25:23 >> a2lubnVrdXR0eQ==<EOL>
+20-05-14 13:25:25 << 235 2.7.0 Accepted<EOL>
+20-05-14 13:25:25 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-14 13:25:26 << 250 2.1.0 OK z66sm1570827pfz.141 - gsmtp<EOL>
+20-05-14 13:25:26 >> RCPT TO: <localhost.supritha.m.bhatt1999@gmail.com><EOL>
+20-05-14 13:25:27 << 250 2.1.5 OK z66sm1570827pfz.141 - gsmtp<EOL>
+20-05-14 13:25:27 >> DATA<EOL>
+20-05-14 13:25:28 << 354  Go ahead z66sm1570827pfz.141 - gsmtp<EOL>
+20-05-14 13:25:28 >> Date: Thu, 14 May 2020 13:25:28 +0530<EOL>
+20-05-14 13:25:28 >> To: localhost.supritha.m.bhatt1999@gmail.com<EOL>
+20-05-14 13:25:28 >> Subject: first mail<EOL>
+20-05-14 13:25:28 >> From: project2020web@gmail.com<EOL>
+20-05-14 13:25:28 >> <EOL>
+20-05-14 13:25:28 >> heya ur happy<EOL>
+20-05-14 13:25:28 >> .<EOL>
+20-05-14 13:25:30 << 250 2.0.0 OK  1589442929 z66sm1570827pfz.141 - gsmtp<EOL>
+20-05-14 13:25:30 >> QUIT<EOL>
+20-05-14 13:25:33 << 221 2.0.0 closing connection z66sm1570827pfz.141 - gsmtp<EOL>
+20-05-14 13:25:33 ** Disconnecting from smtp.gmail.com:465
+20-05-14 13:25:33 ** Disconnected.
+20-05-14 13:25:33 ** Disconnected.
+20-05-14 13:27:14 ** --- MESSAGE BEGIN ---
+20-05-14 13:27:14 ** To: supritha.m.bhatt1999@gmail.com
+20-05-14 13:27:14 ** Subject: first mail
+20-05-14 13:27:14 ** From: project2020web@gmail.com
+20-05-14 13:27:14 ** 
+20-05-14 13:27:14 ** heya ur happy
+20-05-14 13:27:14 ** --- MESSAGE END ---
+20-05-14 13:27:14 ** Connecting to smtp.gmail.com:465
+20-05-14 13:27:29 ** Disconnected.
+20-05-14 13:27:29 ** Disconnected.
+20-05-14 13:27:29 ** Disconnected.
+20-05-14 13:27:29 ** Socket Error # 11001<EOL>Host not found.
+20-05-14 13:28:30 ** --- MESSAGE BEGIN ---
+20-05-14 13:28:30 ** To: localhost.supritha.m.bhatt1999@gmail.com
+20-05-14 13:28:30 ** Subject: first mail
+20-05-14 13:28:30 ** From: project2020web@gmail.com
+20-05-14 13:28:30 ** 
+20-05-14 13:28:30 ** heya ur happy
+20-05-14 13:28:30 ** --- MESSAGE END ---
+20-05-14 13:28:31 ** Connecting to smtp.gmail.com:465
+20-05-14 13:28:37 ** Disconnected.
+20-05-14 13:28:37 ** Disconnected.
+20-05-14 13:28:37 ** Disconnected.
+20-05-14 13:28:37 ** Socket Error # 10060<EOL>Connection timed out.
+20-05-14 13:28:41 ** --- MESSAGE BEGIN ---
+20-05-14 13:28:41 ** To: localhost.supritha.m.bhatt1999@gmail.com
+20-05-14 13:28:41 ** Subject: first mail
+20-05-14 13:28:41 ** From: project2020web@gmail.com
+20-05-14 13:28:41 ** 
+20-05-14 13:28:41 ** heya ur happy
+20-05-14 13:28:41 ** --- MESSAGE END ---
+20-05-14 13:28:42 ** Connecting to smtp.gmail.com:465
+20-05-14 13:28:52 ** Disconnected.
+20-05-14 13:28:52 ** Disconnected.
+20-05-14 13:28:52 ** Disconnected.
+20-05-14 13:28:52 ** Disconnected.
+20-05-14 13:28:52 ** Connect timed out.
+20-05-14 13:29:49 ** --- MESSAGE BEGIN ---
+20-05-14 13:29:49 ** To: localhost.supritha.m.bhatt1999@gmail.com
+20-05-14 13:29:49 ** Subject: first mail
+20-05-14 13:29:49 ** From: project2020web@gmail.com
+20-05-14 13:29:49 ** 
+20-05-14 13:29:49 ** heya ur happy
+20-05-14 13:29:49 ** --- MESSAGE END ---
+20-05-14 13:29:49 ** Connecting to smtp.gmail.com:465
+20-05-14 13:29:50 ** Connected.
+20-05-14 13:29:50 << 220 smtp.gmail.com ESMTP y126sm1122394pfy.60 - gsmtp<EOL>
+20-05-14 13:29:50 >> EHLO localhost<EOL>
+20-05-14 13:29:51 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-14 13:29:51 ** Authenticating as project2020web@gmail.com
+20-05-14 13:29:51 >> AUTH LOGIN<EOL>
+20-05-14 13:29:51 << 334 VXNlcm5hbWU6<EOL>
+20-05-14 13:29:51 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-14 13:29:51 << 334 UGFzc3dvcmQ6<EOL>
+20-05-14 13:29:51 >> a2lubnVrdXR0eQ==<EOL>
+20-05-14 13:29:51 << 235 2.7.0 Accepted<EOL>
+20-05-14 13:29:51 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-14 13:29:52 << 250 2.1.0 OK y126sm1122394pfy.60 - gsmtp<EOL>
+20-05-14 13:29:52 >> RCPT TO: <localhost.supritha.m.bhatt1999@gmail.com><EOL>
+20-05-14 13:29:52 << 250 2.1.5 OK y126sm1122394pfy.60 - gsmtp<EOL>
+20-05-14 13:29:52 >> DATA<EOL>
+20-05-14 13:29:52 << 354  Go ahead y126sm1122394pfy.60 - gsmtp<EOL>
+20-05-14 13:29:52 >> Date: Thu, 14 May 2020 13:29:52 +0530<EOL>
+20-05-14 13:29:52 >> To: localhost.supritha.m.bhatt1999@gmail.com<EOL>
+20-05-14 13:29:52 >> Subject: first mail<EOL>
+20-05-14 13:29:52 >> From: project2020web@gmail.com<EOL>
+20-05-14 13:29:52 >> <EOL>
+20-05-14 13:29:52 >> heya ur happy<EOL>
+20-05-14 13:29:52 >> .<EOL>
+20-05-14 13:29:55 << 250 2.0.0 OK  1589443192 y126sm1122394pfy.60 - gsmtp<EOL>
+20-05-14 13:29:55 >> QUIT<EOL>
+20-05-14 13:29:56 << 221 2.0.0 closing connection y126sm1122394pfy.60 - gsmtp<EOL>
+20-05-14 13:29:56 ** Disconnected.
+20-05-14 13:29:56 ** Disconnected.
+20-05-14 13:29:56 ** Disconnected.
+20-05-14 13:31:14 ** --- MESSAGE BEGIN ---
+20-05-14 13:31:14 ** To: localhost.supritha.m.bhatt1999@dr-ait.org
+20-05-14 13:31:14 ** Subject: first mail
+20-05-14 13:31:14 ** From: project2020web@gmail.com
+20-05-14 13:31:14 ** 
+20-05-14 13:31:14 ** heya ur happy
+20-05-14 13:31:14 ** --- MESSAGE END ---
+20-05-14 13:31:15 ** Connecting to smtp.gmail.com:465
+20-05-14 13:31:19 ** Disconnected.
+20-05-14 13:31:19 ** Disconnected.
+20-05-14 13:31:19 ** Disconnected.
+20-05-14 13:31:19 ** Socket Error # 10060<EOL>Connection timed out.
+20-05-14 13:31:57 ** --- MESSAGE BEGIN ---
+20-05-14 13:31:57 ** To: localhost.supritha.m.bhatt1999@dr-ait.org
+20-05-14 13:31:57 ** Subject: first mail
+20-05-14 13:31:57 ** From: project2020web@gmail.com
+20-05-14 13:31:57 ** 
+20-05-14 13:31:57 ** heya ur happy
+20-05-14 13:31:57 ** --- MESSAGE END ---
+20-05-14 13:31:58 ** Connecting to smtp.gmail.com:465
+20-05-14 13:32:01 ** Disconnected.
+20-05-14 13:32:01 ** Disconnected.
+20-05-14 13:32:01 ** Disconnected.
+20-05-14 13:32:01 ** Socket Error # 10060<EOL>Connection timed out.
+20-05-14 13:33:33 ** --- MESSAGE BEGIN ---
+20-05-14 13:33:33 ** To: localhost.supritha.m.bhatt1999@dr-ait.org
+20-05-14 13:33:33 ** Subject: first mail
+20-05-14 13:33:33 ** From: project2020web@gmail.com
+20-05-14 13:33:33 ** 
+20-05-14 13:33:33 ** heya ur happy
+20-05-14 13:33:33 ** --- MESSAGE END ---
+20-05-14 13:33:34 ** Connecting to smtp.gmail.com:465
+20-05-14 13:33:48 ** Disconnected.
+20-05-14 13:33:48 ** Disconnected.
+20-05-14 13:33:48 ** Disconnected.
+20-05-14 13:33:48 ** Socket Error # 11001<EOL>Host not found.
+20-05-14 13:40:27 ** --- MESSAGE BEGIN ---
+20-05-14 13:40:27 ** To: localhost.supritha.m.bhatt1999@dr-ait.org
+20-05-14 13:40:27 ** Subject: first mail
+20-05-14 13:40:27 ** From: project2020web@gmail.com
+20-05-14 13:40:27 ** 
+20-05-14 13:40:27 ** heya ur happy
+20-05-14 13:40:27 ** --- MESSAGE END ---
+20-05-14 13:40:27 ** Connecting to smtp.gmail.com:465
+20-05-14 13:40:29 ** Connected.
+20-05-14 13:40:30 << 220 smtp.gmail.com ESMTP o68sm1600725pfb.206 - gsmtp<EOL>
+20-05-14 13:40:30 >> EHLO localhost<EOL>
+20-05-14 13:40:30 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-14 13:40:30 ** Authenticating as project2020web@gmail.com
+20-05-14 13:40:30 >> AUTH LOGIN<EOL>
+20-05-14 13:40:31 << 334 VXNlcm5hbWU6<EOL>
+20-05-14 13:40:31 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-14 13:40:31 << 334 UGFzc3dvcmQ6<EOL>
+20-05-14 13:40:31 >> a2lubnVrdXR0eQ==<EOL>
+20-05-14 13:40:32 << 235 2.7.0 Accepted<EOL>
+20-05-14 13:40:32 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-14 13:40:32 << 250 2.1.0 OK o68sm1600725pfb.206 - gsmtp<EOL>
+20-05-14 13:40:32 >> RCPT TO: <localhost.supritha.m.bhatt1999@dr-ait.org><EOL>
+20-05-14 13:40:33 << 250 2.1.5 OK o68sm1600725pfb.206 - gsmtp<EOL>
+20-05-14 13:40:33 >> DATA<EOL>
+20-05-14 13:40:35 << 354  Go ahead o68sm1600725pfb.206 - gsmtp<EOL>
+20-05-14 13:40:35 >> Date: Thu, 14 May 2020 13:40:35 +0530<EOL>
+20-05-14 13:40:35 >> To: localhost.supritha.m.bhatt1999@dr-ait.org<EOL>
+20-05-14 13:40:35 >> Subject: first mail<EOL>
+20-05-14 13:40:35 >> From: project2020web@gmail.com<EOL>
+20-05-14 13:40:35 >> <EOL>
+20-05-14 13:40:35 >> heya ur happy<EOL>
+20-05-14 13:40:35 >> .<EOL>
+20-05-14 13:40:37 << 250 2.0.0 OK  1589443835 o68sm1600725pfb.206 - gsmtp<EOL>
+20-05-14 13:40:37 >> QUIT<EOL>
+20-05-14 13:40:37 << 221 2.0.0 closing connection o68sm1600725pfb.206 - gsmtp<EOL>
+20-05-14 13:40:37 ** Disconnecting from smtp.gmail.com:465
+20-05-14 13:40:37 ** Disconnected.
+20-05-14 13:40:37 ** Disconnected.
+20-05-15 08:50:37 ** --- MESSAGE BEGIN ---
+20-05-15 08:50:37 ** To: localhost.project2020web@gmail.com
+20-05-15 08:50:37 ** Subject: first mail
+20-05-15 08:50:37 ** From: project2020web@gmail.com
+20-05-15 08:50:37 ** 
+20-05-15 08:50:37 ** heya ur happy
+20-05-15 08:50:37 ** --- MESSAGE END ---
+20-05-15 08:50:39 ** Connecting to smtp.gmail.com:465
+20-05-15 08:50:40 ** Connected.
+20-05-15 08:50:40 << 220 smtp.gmail.com ESMTP u188sm546444pfu.33 - gsmtp<EOL>
+20-05-15 08:50:40 >> EHLO localhost<EOL>
+20-05-15 08:50:40 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-15 08:50:40 ** Authenticating as project2020web@gmail.com
+20-05-15 08:50:40 >> AUTH LOGIN<EOL>
+20-05-15 08:50:40 << 334 VXNlcm5hbWU6<EOL>
+20-05-15 08:50:40 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-15 08:50:41 << 334 UGFzc3dvcmQ6<EOL>
+20-05-15 08:50:41 >> a2lubnVrdXR0eQ==<EOL>
+20-05-15 08:50:42 << 235 2.7.0 Accepted<EOL>
+20-05-15 08:50:42 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-15 08:50:42 << 250 2.1.0 OK u188sm546444pfu.33 - gsmtp<EOL>
+20-05-15 08:50:42 >> RCPT TO: <localhost.project2020web@gmail.com><EOL>
+20-05-15 08:50:42 << 250 2.1.5 OK u188sm546444pfu.33 - gsmtp<EOL>
+20-05-15 08:50:42 >> DATA<EOL>
+20-05-15 08:50:43 << 354  Go ahead u188sm546444pfu.33 - gsmtp<EOL>
+20-05-15 08:50:43 >> Date: Fri, 15 May 2020 08:50:43 +0530<EOL>
+20-05-15 08:50:43 >> To: localhost.project2020web@gmail.com<EOL>
+20-05-15 08:50:43 >> Subject: first mail<EOL>
+20-05-15 08:50:43 >> From: project2020web@gmail.com<EOL>
+20-05-15 08:50:43 >> <EOL>
+20-05-15 08:50:43 >> heya ur happy<EOL>
+20-05-15 08:50:43 >> .<EOL>
+20-05-15 08:50:44 << 250 2.0.0 OK  1589512842 u188sm546444pfu.33 - gsmtp<EOL>
+20-05-15 08:50:44 >> QUIT<EOL>
+20-05-15 08:50:44 << 221 2.0.0 closing connection u188sm546444pfu.33 - gsmtp<EOL>
+20-05-15 08:50:44 ** Disconnecting from smtp.gmail.com:465
+20-05-15 08:50:44 ** Disconnected.
+20-05-15 08:50:44 ** Disconnected.
+20-05-15 08:52:07 ** --- MESSAGE BEGIN ---
+20-05-15 08:52:07 ** To: project2020web@gmail.com
+20-05-15 08:52:07 ** Subject: first mail
+20-05-15 08:52:07 ** From: project2020web@gmail.com
+20-05-15 08:52:07 ** 
+20-05-15 08:52:07 ** heya ur happy
+20-05-15 08:52:07 ** --- MESSAGE END ---
+20-05-15 08:52:08 ** Connecting to smtp.gmail.com:465
+20-05-15 08:52:08 ** Connected.
+20-05-15 08:52:08 << 220 smtp.gmail.com ESMTP mj2sm337302pjb.49 - gsmtp<EOL>
+20-05-15 08:52:08 >> EHLO localhost<EOL>
+20-05-15 08:52:09 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-15 08:52:09 ** Authenticating as project2020web@gmail.com
+20-05-15 08:52:09 >> AUTH LOGIN<EOL>
+20-05-15 08:52:09 << 334 VXNlcm5hbWU6<EOL>
+20-05-15 08:52:09 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-15 08:52:09 << 334 UGFzc3dvcmQ6<EOL>
+20-05-15 08:52:09 >> a2lubnVrdXR0eQ==<EOL>
+20-05-15 08:52:10 << 235 2.7.0 Accepted<EOL>
+20-05-15 08:52:10 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-15 08:52:10 << 250 2.1.0 OK mj2sm337302pjb.49 - gsmtp<EOL>
+20-05-15 08:52:10 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-15 08:52:10 << 250 2.1.5 OK mj2sm337302pjb.49 - gsmtp<EOL>
+20-05-15 08:52:10 >> DATA<EOL>
+20-05-15 08:52:10 << 354  Go ahead mj2sm337302pjb.49 - gsmtp<EOL>
+20-05-15 08:52:10 >> Date: Fri, 15 May 2020 08:52:10 +0530<EOL>
+20-05-15 08:52:10 >> To: project2020web@gmail.com<EOL>
+20-05-15 08:52:10 >> Subject: first mail<EOL>
+20-05-15 08:52:10 >> From: project2020web@gmail.com<EOL>
+20-05-15 08:52:10 >> <EOL>
+20-05-15 08:52:10 >> heya ur happy<EOL>
+20-05-15 08:52:10 >> .<EOL>
+20-05-15 08:52:11 << 250 2.0.0 OK  1589512930 mj2sm337302pjb.49 - gsmtp<EOL>
+20-05-15 08:52:11 >> QUIT<EOL>
+20-05-15 08:52:12 << 221 2.0.0 closing connection mj2sm337302pjb.49 - gsmtp<EOL>
+20-05-15 08:52:12 ** Disconnected.
+20-05-15 08:52:12 ** Disconnected.
+20-05-15 08:52:12 ** Disconnected.
+20-05-15 08:52:48 ** --- MESSAGE BEGIN ---
+20-05-15 08:52:48 ** To: supritha.m.bhatt199@gmail.com
+20-05-15 08:52:48 ** Subject: first mail
+20-05-15 08:52:48 ** From: project2020web@gmail.com
+20-05-15 08:52:48 ** 
+20-05-15 08:52:48 ** heya ur happy
+20-05-15 08:52:48 ** --- MESSAGE END ---
+20-05-15 08:52:48 ** Connecting to smtp.gmail.com:465
+20-05-15 08:52:49 ** Connected.
+20-05-15 08:52:49 << 220 smtp.gmail.com ESMTP o6sm529775pfp.172 - gsmtp<EOL>
+20-05-15 08:52:49 >> EHLO localhost<EOL>
+20-05-15 08:52:49 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-15 08:52:49 ** Authenticating as project2020web@gmail.com
+20-05-15 08:52:49 >> AUTH LOGIN<EOL>
+20-05-15 08:52:49 << 334 VXNlcm5hbWU6<EOL>
+20-05-15 08:52:49 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-15 08:52:50 << 334 UGFzc3dvcmQ6<EOL>
+20-05-15 08:52:50 >> a2lubnVrdXR0eQ==<EOL>
+20-05-15 08:52:50 << 235 2.7.0 Accepted<EOL>
+20-05-15 08:52:50 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-15 08:52:50 << 250 2.1.0 OK o6sm529775pfp.172 - gsmtp<EOL>
+20-05-15 08:52:50 >> RCPT TO: <supritha.m.bhatt199@gmail.com><EOL>
+20-05-15 08:52:51 << 250 2.1.5 OK o6sm529775pfp.172 - gsmtp<EOL>
+20-05-15 08:52:51 >> DATA<EOL>
+20-05-15 08:52:51 << 354  Go ahead o6sm529775pfp.172 - gsmtp<EOL>
+20-05-15 08:52:51 >> Date: Fri, 15 May 2020 08:52:51 +0530<EOL>
+20-05-15 08:52:51 >> To: supritha.m.bhatt199@gmail.com<EOL>
+20-05-15 08:52:51 >> Subject: first mail<EOL>
+20-05-15 08:52:51 >> From: project2020web@gmail.com<EOL>
+20-05-15 08:52:51 >> <EOL>
+20-05-15 08:52:51 >> heya ur happy<EOL>
+20-05-15 08:52:51 >> .<EOL>
+20-05-15 08:52:52 << 250 2.0.0 OK  1589512970 o6sm529775pfp.172 - gsmtp<EOL>
+20-05-15 08:52:52 >> QUIT<EOL>
+20-05-15 08:52:52 << 221 2.0.0 closing connection o6sm529775pfp.172 - gsmtp<EOL>
+20-05-15 08:52:52 ** Disconnected.
+20-05-15 08:52:52 ** Disconnected.
+20-05-15 08:52:52 ** Disconnected.
+20-05-15 08:53:20 ** --- MESSAGE BEGIN ---
+20-05-15 08:53:20 ** To: supritha.m.bhatt1999@gmail.com
+20-05-15 08:53:20 ** Subject: first mail
+20-05-15 08:53:20 ** From: project2020web@gmail.com
+20-05-15 08:53:20 ** 
+20-05-15 08:53:20 ** heya ur happy
+20-05-15 08:53:20 ** --- MESSAGE END ---
+20-05-15 08:53:20 ** Connecting to smtp.gmail.com:465
+20-05-15 08:53:21 ** Connected.
+20-05-15 08:53:21 << 220 smtp.gmail.com ESMTP n30sm543067pfq.88 - gsmtp<EOL>
+20-05-15 08:53:21 >> EHLO localhost<EOL>
+20-05-15 08:53:21 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-15 08:53:21 ** Authenticating as project2020web@gmail.com
+20-05-15 08:53:21 >> AUTH LOGIN<EOL>
+20-05-15 08:53:22 << 334 VXNlcm5hbWU6<EOL>
+20-05-15 08:53:22 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-15 08:53:23 << 334 UGFzc3dvcmQ6<EOL>
+20-05-15 08:53:23 >> a2lubnVrdXR0eQ==<EOL>
+20-05-15 08:53:23 << 235 2.7.0 Accepted<EOL>
+20-05-15 08:53:23 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-15 08:53:23 << 250 2.1.0 OK n30sm543067pfq.88 - gsmtp<EOL>
+20-05-15 08:53:23 >> RCPT TO: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-15 08:53:24 << 250 2.1.5 OK n30sm543067pfq.88 - gsmtp<EOL>
+20-05-15 08:53:24 >> DATA<EOL>
+20-05-15 08:53:24 << 354  Go ahead n30sm543067pfq.88 - gsmtp<EOL>
+20-05-15 08:53:24 >> Date: Fri, 15 May 2020 08:53:24 +0530<EOL>
+20-05-15 08:53:24 >> To: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-15 08:53:24 >> Subject: first mail<EOL>
+20-05-15 08:53:24 >> From: project2020web@gmail.com<EOL>
+20-05-15 08:53:24 >> <EOL>
+20-05-15 08:53:24 >> heya ur happy<EOL>
+20-05-15 08:53:24 >> .<EOL>
+20-05-15 08:53:25 << 250 2.0.0 OK  1589513003 n30sm543067pfq.88 - gsmtp<EOL>
+20-05-15 08:53:25 >> QUIT<EOL>
+20-05-15 08:53:25 << 221 2.0.0 closing connection n30sm543067pfq.88 - gsmtp<EOL>
+20-05-15 08:53:25 ** Disconnected.
+20-05-15 08:53:25 ** Disconnected.
+20-05-15 08:53:25 ** Disconnected.
+20-05-15 11:18:09 ** --- MESSAGE BEGIN ---
+20-05-15 11:18:09 ** To: msbhatt1960@gmail.com
+20-05-15 11:18:09 ** Subject: Access granted
+20-05-15 11:18:09 ** From: project2020web@gmail.com
+20-05-15 11:18:09 ** 
+20-05-15 11:18:09 ** hey there, 
+20-05-15 11:18:09 ** 					We are permitting your acces to our website.
+20-05-15 11:18:09 ** 					Kindly login and enjoy our services.
+20-05-15 11:18:09 ** 					-Hitched.com
+20-05-15 11:18:09 ** --- MESSAGE END ---
+20-05-15 11:18:09 ** Connecting to smtp.gmail.com:465
+20-05-15 11:18:11 ** Connected.
+20-05-15 11:18:12 << 220 smtp.gmail.com ESMTP 138sm857095pfz.31 - gsmtp<EOL>
+20-05-15 11:18:12 >> EHLO localhost<EOL>
+20-05-15 11:18:12 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-15 11:18:12 ** Authenticating as project2020web@gmail.com
+20-05-15 11:18:12 >> AUTH LOGIN<EOL>
+20-05-15 11:18:12 << 334 VXNlcm5hbWU6<EOL>
+20-05-15 11:18:12 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-15 11:18:12 << 334 UGFzc3dvcmQ6<EOL>
+20-05-15 11:18:12 >> a2lubnVrdXR0eQ==<EOL>
+20-05-15 11:18:13 << 235 2.7.0 Accepted<EOL>
+20-05-15 11:18:13 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-15 11:18:13 << 250 2.1.0 OK 138sm857095pfz.31 - gsmtp<EOL>
+20-05-15 11:18:13 >> RCPT TO: <msbhatt1960@gmail.com><EOL>
+20-05-15 11:18:14 << 250 2.1.5 OK 138sm857095pfz.31 - gsmtp<EOL>
+20-05-15 11:18:14 >> DATA<EOL>
+20-05-15 11:18:14 << 354  Go ahead 138sm857095pfz.31 - gsmtp<EOL>
+20-05-15 11:18:14 >> Date: Fri, 15 May 2020 11:18:14 +0530<EOL>
+20-05-15 11:18:14 >> To: msbhatt1960@gmail.com<EOL>
+20-05-15 11:18:14 >> Subject: Access granted<EOL>
+20-05-15 11:18:14 >> From: project2020web@gmail.com<EOL>
+20-05-15 11:18:14 >> <EOL>
+20-05-15 11:18:14 >> hey there, <EOL>
+20-05-15 11:18:14 >> 					We are permitting your acces to our website.<EOL>
+20-05-15 11:18:14 >> 					Kindly login and enjoy our services.<EOL>
+20-05-15 11:18:14 >> 					-Hitched.com<EOL>
+20-05-15 11:18:14 >> .<EOL>
+20-05-15 11:18:15 << 250 2.0.0 OK  1589521694 138sm857095pfz.31 - gsmtp<EOL>
+20-05-15 11:18:15 >> QUIT<EOL>
+20-05-15 11:18:17 << 221 2.0.0 closing connection 138sm857095pfz.31 - gsmtp<EOL>
+20-05-15 11:18:17 ** Disconnecting from smtp.gmail.com:465
+20-05-15 11:18:17 ** Disconnected.
+20-05-15 11:18:17 ** Disconnected.
+20-05-15 11:22:06 ** --- MESSAGE BEGIN ---
+20-05-15 11:22:06 ** To: meenakshiraju15@gmail.com
+20-05-15 11:22:06 ** Subject: Access Denied
+20-05-15 11:22:06 ** From: project2020web@gmail.com
+20-05-15 11:22:06 ** 
+20-05-15 11:22:06 ** hey there, We are NOT permitting your acces to our website. Kindly Register with valid data agin inorder to use our services.
+20-05-15 11:22:06 ** 				-Hitched.com
+20-05-15 11:22:06 ** --- MESSAGE END ---
+20-05-15 11:22:07 ** Connecting to smtp.gmail.com:465
+20-05-15 11:22:07 ** Connected.
+20-05-15 11:22:07 << 220 smtp.gmail.com ESMTP z18sm873102pfj.148 - gsmtp<EOL>
+20-05-15 11:22:07 >> EHLO localhost<EOL>
+20-05-15 11:22:08 << 250-smtp.gmail.com at your service, [106.206.9.9]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-15 11:22:08 ** Authenticating as project2020web@gmail.com
+20-05-15 11:22:08 >> AUTH LOGIN<EOL>
+20-05-15 11:22:08 << 334 VXNlcm5hbWU6<EOL>
+20-05-15 11:22:08 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-15 11:22:08 << 334 UGFzc3dvcmQ6<EOL>
+20-05-15 11:22:08 >> a2lubnVrdXR0eQ==<EOL>
+20-05-15 11:22:09 << 235 2.7.0 Accepted<EOL>
+20-05-15 11:22:09 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-15 11:22:09 << 250 2.1.0 OK z18sm873102pfj.148 - gsmtp<EOL>
+20-05-15 11:22:09 >> RCPT TO: <meenakshiraju15@gmail.com><EOL>
+20-05-15 11:22:09 << 250 2.1.5 OK z18sm873102pfj.148 - gsmtp<EOL>
+20-05-15 11:22:09 >> DATA<EOL>
+20-05-15 11:22:10 << 354  Go ahead z18sm873102pfj.148 - gsmtp<EOL>
+20-05-15 11:22:10 >> Date: Fri, 15 May 2020 11:22:10 +0530<EOL>
+20-05-15 11:22:10 >> To: meenakshiraju15@gmail.com<EOL>
+20-05-15 11:22:10 >> Subject: Access Denied<EOL>
+20-05-15 11:22:10 >> From: project2020web@gmail.com<EOL>
+20-05-15 11:22:10 >> <EOL>
+20-05-15 11:22:10 >> hey there, We are NOT permitting your acces to our website. Kindly Register with valid data agin inorder to use our services.<EOL>
+20-05-15 11:22:10 >> 				-Hitched.com<EOL>
+20-05-15 11:22:10 >> .<EOL>
+20-05-15 11:22:14 << 250 2.0.0 OK  1589521930 z18sm873102pfj.148 - gsmtp<EOL>
+20-05-15 11:22:14 >> QUIT<EOL>
+20-05-15 11:22:23 << 221 2.0.0 closing connection z18sm873102pfj.148 - gsmtp<EOL>
+20-05-15 11:22:23 ** Disconnecting from smtp.gmail.com:465
+20-05-15 11:22:23 ** Disconnected.
+20-05-15 11:22:23 ** Disconnected.
+20-05-18 17:55:20 ** --- MESSAGE BEGIN ---
+20-05-18 17:55:20 ** To: supritha.m.bhatt1999@gmail.com
+20-05-18 17:55:20 ** Subject: Access granted
+20-05-18 17:55:20 ** From: project2020web@gmail.com
+20-05-18 17:55:20 ** 
+20-05-18 17:55:20 ** hey there, We are permitting your acces to our website. Kindly login and enjoy our services.
+20-05-18 17:55:20 ** 				-Hitched.com
+20-05-18 17:55:20 ** --- MESSAGE END ---
+20-05-18 17:55:21 ** Connecting to smtp.gmail.com:465
+20-05-18 17:55:21 ** Disconnected.
+20-05-18 17:55:21 ** Disconnected.
+20-05-18 17:55:21 ** Disconnected.
+20-05-18 17:55:21 ** Socket Error # 11001<EOL>Host not found.
+20-05-18 17:55:31 ** --- MESSAGE BEGIN ---
+20-05-18 17:55:31 ** To: shravyamsgowda@gmail.com
+20-05-18 17:55:31 ** Subject: Access granted
+20-05-18 17:55:31 ** From: project2020web@gmail.com
+20-05-18 17:55:31 ** 
+20-05-18 17:55:31 ** hey there, We are permitting your acces to our website. Kindly login and enjoy our services.
+20-05-18 17:55:31 ** 				-Hitched.com
+20-05-18 17:55:31 ** --- MESSAGE END ---
+20-05-18 17:55:31 ** Connecting to smtp.gmail.com:465
+20-05-18 17:55:31 ** Disconnected.
+20-05-18 17:55:31 ** Disconnected.
+20-05-18 17:55:31 ** Disconnected.
+20-05-18 17:55:31 ** Socket Error # 11001<EOL>Host not found.
+20-05-18 17:55:36 ** --- MESSAGE BEGIN ---
+20-05-18 17:55:36 ** To: suppisup123@gmail.com
+20-05-18 17:55:36 ** Subject: Access granted
+20-05-18 17:55:36 ** From: project2020web@gmail.com
+20-05-18 17:55:36 ** 
+20-05-18 17:55:36 ** hey there, We are permitting your acces to our website. Kindly login and enjoy our services.
+20-05-18 17:55:36 ** 				-Hitched.com
+20-05-18 17:55:36 ** --- MESSAGE END ---
+20-05-18 17:55:36 ** Connecting to smtp.gmail.com:465
+20-05-18 17:55:36 ** Disconnected.
+20-05-18 17:55:36 ** Disconnected.
+20-05-18 17:55:36 ** Disconnected.
+20-05-18 17:55:36 ** Socket Error # 11001<EOL>Host not found.
+20-05-18 17:55:41 ** --- MESSAGE BEGIN ---
+20-05-18 17:55:41 ** To: rakshahande@gmail.com
+20-05-18 17:55:41 ** Subject: Access granted
+20-05-18 17:55:41 ** From: project2020web@gmail.com
+20-05-18 17:55:41 ** 
+20-05-18 17:55:41 ** hey there, We are permitting your acces to our website. Kindly login and enjoy our services.
+20-05-18 17:55:41 ** 				-Hitched.com
+20-05-18 17:55:41 ** --- MESSAGE END ---
+20-05-18 17:55:41 ** Connecting to smtp.gmail.com:465
+20-05-18 17:55:41 ** Disconnected.
+20-05-18 17:55:41 ** Disconnected.
+20-05-18 17:55:41 ** Disconnected.
+20-05-18 17:55:41 ** Socket Error # 11001<EOL>Host not found.
+20-05-18 23:16:49 ** --- MESSAGE BEGIN ---
+20-05-18 23:16:49 ** To: rijutad725@gmail.com
+20-05-18 23:16:49 ** Subject: Access granted
+20-05-18 23:16:49 ** From: project2020web@gmail.com
+20-05-18 23:16:49 ** 
+20-05-18 23:16:49 ** hey there, We are permitting your acces to our website. Kindly login and enjoy our services.
+20-05-18 23:16:49 ** 				-Hitched.com
+20-05-18 23:16:49 ** --- MESSAGE END ---
+20-05-18 23:16:51 ** Connecting to smtp.gmail.com:465
+20-05-18 23:16:54 ** Connected.
+20-05-18 23:16:54 << 220 smtp.gmail.com ESMTP w199sm3471729pfc.68 - gsmtp<EOL>
+20-05-18 23:16:54 >> EHLO localhost<EOL>
+20-05-18 23:16:54 << 250-smtp.gmail.com at your service, [27.59.123.112]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-18 23:16:54 ** Authenticating as project2020web@gmail.com
+20-05-18 23:16:54 >> AUTH LOGIN<EOL>
+20-05-18 23:16:54 << 334 VXNlcm5hbWU6<EOL>
+20-05-18 23:16:54 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-18 23:16:55 << 334 UGFzc3dvcmQ6<EOL>
+20-05-18 23:16:55 >> a2lubnVrdXR0eQ==<EOL>
+20-05-18 23:16:55 << 235 2.7.0 Accepted<EOL>
+20-05-18 23:16:55 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-18 23:16:55 << 250 2.1.0 OK w199sm3471729pfc.68 - gsmtp<EOL>
+20-05-18 23:16:55 >> RCPT TO: <rijutad725@gmail.com><EOL>
+20-05-18 23:16:56 << 250 2.1.5 OK w199sm3471729pfc.68 - gsmtp<EOL>
+20-05-18 23:16:56 >> DATA<EOL>
+20-05-18 23:16:57 << 354  Go ahead w199sm3471729pfc.68 - gsmtp<EOL>
+20-05-18 23:16:57 >> Date: Mon, 18 May 2020 23:16:57 +0530<EOL>
+20-05-18 23:16:57 >> To: rijutad725@gmail.com<EOL>
+20-05-18 23:16:57 >> Subject: Access granted<EOL>
+20-05-18 23:16:57 >> From: project2020web@gmail.com<EOL>
+20-05-18 23:16:57 >> <EOL>
+20-05-18 23:16:57 >> hey there, We are permitting your acces to our website. Kindly login and enjoy our services.<EOL>
+20-05-18 23:16:57 >> 				-Hitched.com<EOL>
+20-05-18 23:16:57 >> .<EOL>
+20-05-18 23:16:58 << 250 2.0.0 OK  1589824017 w199sm3471729pfc.68 - gsmtp<EOL>
+20-05-18 23:16:58 >> QUIT<EOL>
+20-05-18 23:16:58 << 221 2.0.0 closing connection w199sm3471729pfc.68 - gsmtp<EOL>
+20-05-18 23:16:58 ** Disconnected.
+20-05-18 23:16:58 ** Disconnected.
+20-05-18 23:16:58 ** Disconnected.
+20-05-18 23:17:24 ** --- MESSAGE BEGIN ---
+20-05-18 23:17:24 ** To: meenakshiraju15@gmail.com
+20-05-18 23:17:24 ** Subject: Access granted
+20-05-18 23:17:24 ** From: project2020web@gmail.com
+20-05-18 23:17:24 ** 
+20-05-18 23:17:24 ** hey there, We are permitting your acces to our website. Kindly login and enjoy our services.
+20-05-18 23:17:24 ** 				-Hitched.com
+20-05-18 23:17:24 ** --- MESSAGE END ---
+20-05-18 23:17:24 ** Connecting to smtp.gmail.com:465
+20-05-18 23:17:25 ** Connected.
+20-05-18 23:17:25 << 220 smtp.gmail.com ESMTP z6sm8156631pgu.85 - gsmtp<EOL>
+20-05-18 23:17:25 >> EHLO localhost<EOL>
+20-05-18 23:17:25 << 250-smtp.gmail.com at your service, [27.59.123.112]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-18 23:17:25 ** Authenticating as project2020web@gmail.com
+20-05-18 23:17:25 >> AUTH LOGIN<EOL>
+20-05-18 23:17:25 << 334 VXNlcm5hbWU6<EOL>
+20-05-18 23:17:25 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-18 23:17:26 << 334 UGFzc3dvcmQ6<EOL>
+20-05-18 23:17:26 >> a2lubnVrdXR0eQ==<EOL>
+20-05-18 23:17:26 << 235 2.7.0 Accepted<EOL>
+20-05-18 23:17:26 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-18 23:17:26 << 250 2.1.0 OK z6sm8156631pgu.85 - gsmtp<EOL>
+20-05-18 23:17:26 >> RCPT TO: <meenakshiraju15@gmail.com><EOL>
+20-05-18 23:17:27 << 250 2.1.5 OK z6sm8156631pgu.85 - gsmtp<EOL>
+20-05-18 23:17:27 >> DATA<EOL>
+20-05-18 23:17:27 << 354  Go ahead z6sm8156631pgu.85 - gsmtp<EOL>
+20-05-18 23:17:27 >> Date: Mon, 18 May 2020 23:17:27 +0530<EOL>
+20-05-18 23:17:27 >> To: meenakshiraju15@gmail.com<EOL>
+20-05-18 23:17:27 >> Subject: Access granted<EOL>
+20-05-18 23:17:27 >> From: project2020web@gmail.com<EOL>
+20-05-18 23:17:27 >> <EOL>
+20-05-18 23:17:27 >> hey there, We are permitting your acces to our website. Kindly login and enjoy our services.<EOL>
+20-05-18 23:17:27 >> 				-Hitched.com<EOL>
+20-05-18 23:17:27 >> .<EOL>
+20-05-18 23:17:28 << 250 2.0.0 OK  1589824047 z6sm8156631pgu.85 - gsmtp<EOL>
+20-05-18 23:17:28 >> QUIT<EOL>
+20-05-18 23:17:29 << 221 2.0.0 closing connection z6sm8156631pgu.85 - gsmtp<EOL>
+20-05-18 23:17:29 ** Disconnected.
+20-05-18 23:17:29 ** Disconnected.
+20-05-18 23:17:29 ** Disconnected.
+20-05-19 10:10:39 ** --- MESSAGE BEGIN ---
+20-05-19 10:10:39 ** To: shravya1499@gmail.com
+20-05-19 10:10:39 ** Subject: Access granted
+20-05-19 10:10:39 ** From: project2020web@gmail.com
+20-05-19 10:10:39 ** 
+20-05-19 10:10:39 ** hey there, We are permitting your acces to our website. Kindly login and enjoy our services.
+20-05-19 10:10:39 ** 				-Hitched.com
+20-05-19 10:10:39 ** --- MESSAGE END ---
+20-05-19 10:10:40 ** Connecting to smtp.gmail.com:465
+20-05-19 10:10:41 ** Connected.
+20-05-19 10:10:41 << 220 smtp.gmail.com ESMTP q18sm3127544pgt.74 - gsmtp<EOL>
+20-05-19 10:10:41 >> EHLO localhost<EOL>
+20-05-19 10:10:41 << 250-smtp.gmail.com at your service, [27.59.67.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-19 10:10:41 ** Authenticating as project2020web@gmail.com
+20-05-19 10:10:41 >> AUTH LOGIN<EOL>
+20-05-19 10:10:41 << 334 VXNlcm5hbWU6<EOL>
+20-05-19 10:10:41 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-19 10:10:42 << 334 UGFzc3dvcmQ6<EOL>
+20-05-19 10:10:42 >> a2lubnVrdXR0eQ==<EOL>
+20-05-19 10:10:42 << 235 2.7.0 Accepted<EOL>
+20-05-19 10:10:42 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-19 10:10:42 << 250 2.1.0 OK q18sm3127544pgt.74 - gsmtp<EOL>
+20-05-19 10:10:42 >> RCPT TO: <shravya1499@gmail.com><EOL>
+20-05-19 10:10:43 << 250 2.1.5 OK q18sm3127544pgt.74 - gsmtp<EOL>
+20-05-19 10:10:43 >> DATA<EOL>
+20-05-19 10:10:43 << 354  Go ahead q18sm3127544pgt.74 - gsmtp<EOL>
+20-05-19 10:10:43 >> Date: Tue, 19 May 2020 10:10:43 +0530<EOL>
+20-05-19 10:10:43 >> To: shravya1499@gmail.com<EOL>
+20-05-19 10:10:43 >> Subject: Access granted<EOL>
+20-05-19 10:10:43 >> From: project2020web@gmail.com<EOL>
+20-05-19 10:10:43 >> <EOL>
+20-05-19 10:10:43 >> hey there, We are permitting your acces to our website. Kindly login and enjoy our services.<EOL>
+20-05-19 10:10:43 >> 				-Hitched.com<EOL>
+20-05-19 10:10:43 >> .<EOL>
+20-05-19 10:10:45 << 250 2.0.0 OK  1589863243 q18sm3127544pgt.74 - gsmtp<EOL>
+20-05-19 10:10:45 >> QUIT<EOL>
+20-05-19 10:10:45 << 221 2.0.0 closing connection q18sm3127544pgt.74 - gsmtp<EOL>
+20-05-19 10:10:45 ** Disconnected.
+20-05-19 10:10:45 ** Disconnected.
+20-05-19 10:10:45 ** Disconnected.
+20-05-19 10:12:06 ** --- MESSAGE BEGIN ---
+20-05-19 10:12:06 ** To: shravyams024@gmail.com
+20-05-19 10:12:06 ** Subject: Access Denied
+20-05-19 10:12:06 ** From: project2020web@gmail.com
+20-05-19 10:12:06 ** 
+20-05-19 10:12:06 ** hey there, We are NOT permitting your acces to our website. Kindly Register with valid data agin inorder to use our services.
+20-05-19 10:12:06 ** 				-Hitched.com
+20-05-19 10:12:06 ** --- MESSAGE END ---
+20-05-19 10:12:07 ** Connecting to smtp.gmail.com:465
+20-05-19 10:12:07 ** Connected.
+20-05-19 10:12:07 << 220 smtp.gmail.com ESMTP w190sm9634618pfw.35 - gsmtp<EOL>
+20-05-19 10:12:07 >> EHLO localhost<EOL>
+20-05-19 10:12:08 << 250-smtp.gmail.com at your service, [27.59.67.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-19 10:12:08 ** Authenticating as project2020web@gmail.com
+20-05-19 10:12:08 >> AUTH LOGIN<EOL>
+20-05-19 10:12:08 << 334 VXNlcm5hbWU6<EOL>
+20-05-19 10:12:08 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-19 10:12:08 << 334 UGFzc3dvcmQ6<EOL>
+20-05-19 10:12:08 >> a2lubnVrdXR0eQ==<EOL>
+20-05-19 10:12:09 << 235 2.7.0 Accepted<EOL>
+20-05-19 10:12:09 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-19 10:12:09 << 250 2.1.0 OK w190sm9634618pfw.35 - gsmtp<EOL>
+20-05-19 10:12:09 >> RCPT TO: <shravyams024@gmail.com><EOL>
+20-05-19 10:12:10 << 250 2.1.5 OK w190sm9634618pfw.35 - gsmtp<EOL>
+20-05-19 10:12:10 >> DATA<EOL>
+20-05-19 10:12:11 << 354  Go ahead w190sm9634618pfw.35 - gsmtp<EOL>
+20-05-19 10:12:11 >> Date: Tue, 19 May 2020 10:12:11 +0530<EOL>
+20-05-19 10:12:11 >> To: shravyams024@gmail.com<EOL>
+20-05-19 10:12:11 >> Subject: Access Denied<EOL>
+20-05-19 10:12:11 >> From: project2020web@gmail.com<EOL>
+20-05-19 10:12:11 >> <EOL>
+20-05-19 10:12:11 >> hey there, We are NOT permitting your acces to our website. Kindly Register with valid data agin inorder to use our services.<EOL>
+20-05-19 10:12:11 >> 				-Hitched.com<EOL>
+20-05-19 10:12:11 >> .<EOL>
+20-05-19 10:12:12 << 250 2.0.0 OK  1589863330 w190sm9634618pfw.35 - gsmtp<EOL>
+20-05-19 10:12:12 >> QUIT<EOL>
+20-05-19 10:12:12 << 221 2.0.0 closing connection w190sm9634618pfw.35 - gsmtp<EOL>
+20-05-19 10:12:12 ** Disconnected.
+20-05-19 10:12:12 ** Disconnected.
+20-05-19 10:12:12 ** Disconnected.
+20-05-19 22:19:30 ** --- MESSAGE BEGIN ---
+20-05-19 22:19:30 ** To: project2020web@gmail.com
+20-05-19 22:19:30 ** Subject: hey
+20-05-19 22:19:30 ** Date: Tue, 19 May 2020 16:49:29 +0000
+20-05-19 22:19:30 ** From: supritha.m.bhatt1999@gmail.com
+20-05-19 22:19:30 ** Message-ID: <0f711ddf07accbef242846e9a815545c@localhost>
+20-05-19 22:19:30 ** X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)
+20-05-19 22:19:30 ** MIME-Version: 1.0
+20-05-19 22:19:30 ** Content-Type: text/plain; charset=iso-8859-1
+20-05-19 22:19:30 ** 
+20-05-19 22:19:30 ** kio messaging u
+20-05-19 22:19:30 ** 
+20-05-19 22:19:30 ** --- MESSAGE END ---
+20-05-19 22:19:30 ** Connecting to smtp.gmail.com:465
+20-05-19 22:19:32 ** Disconnected.
+20-05-19 22:19:32 ** Disconnected.
+20-05-19 22:19:32 ** Disconnected.
+20-05-19 22:19:32 ** Socket Error # 10060<EOL>Connection timed out.
+20-05-19 22:22:23 ** --- MESSAGE BEGIN ---
+20-05-19 22:22:23 ** To: project2020web@gmail.com
+20-05-19 22:22:23 ** Subject: first mail
+20-05-19 22:22:23 ** From:supritha.m.bhatt1999@gmail.com
+20-05-19 22:22:23 ** 
+20-05-19 22:22:23 ** heya ur happy
+20-05-19 22:22:23 ** --- MESSAGE END ---
+20-05-19 22:22:23 ** Connecting to smtp.gmail.com:465
+20-05-19 22:22:38 ** Disconnected.
+20-05-19 22:22:38 ** Disconnected.
+20-05-19 22:22:38 ** Disconnected.
+20-05-19 22:22:38 ** Socket Error # 11001<EOL>Host not found.
+20-05-19 22:24:41 ** --- MESSAGE BEGIN ---
+20-05-19 22:24:41 ** To: project2020web@gmail.com
+20-05-19 22:24:41 ** Subject: first mail
+20-05-19 22:24:41 ** supritha.m.bhatt1999@gmail.com
+20-05-19 22:24:41 ** 
+20-05-19 22:24:41 ** heya ur happy
+20-05-19 22:24:41 ** --- MESSAGE END ---
+20-05-19 22:24:41 ** Message is missing sender's address
+20-05-19 22:24:49 ** --- MESSAGE BEGIN ---
+20-05-19 22:24:49 ** To: project2020web@gmail.com
+20-05-19 22:24:49 ** Subject: first mail
+20-05-19 22:24:49 ** supritha.m.bhatt1999@gmail.com
+20-05-19 22:24:49 ** 
+20-05-19 22:24:49 ** heya ur happy
+20-05-19 22:24:49 ** --- MESSAGE END ---
+20-05-19 22:24:49 ** Message is missing sender's address
+20-05-19 22:27:54 ** --- MESSAGE BEGIN ---
+20-05-19 22:27:54 ** To: project2020web@gmail.com
+20-05-19 22:27:54 ** Subject: first mail
+20-05-19 22:27:54 ** From:supritha.m.bhatt1999@gmail.com
+20-05-19 22:27:54 ** 
+20-05-19 22:27:54 ** heya ur happy
+20-05-19 22:27:54 ** --- MESSAGE END ---
+20-05-19 22:27:54 ** Connecting to smtp.gmail.com:465
+20-05-19 22:27:55 ** Connected.
+20-05-19 22:27:56 << 220 smtp.gmail.com ESMTP f29sm42790pgf.63 - gsmtp<EOL>
+20-05-19 22:27:56 >> EHLO localhost<EOL>
+20-05-19 22:27:56 << 250-smtp.gmail.com at your service, [106.206.20.195]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-19 22:27:56 ** Authenticating as project2020web@gmail.com
+20-05-19 22:27:56 >> AUTH LOGIN<EOL>
+20-05-19 22:27:56 << 334 VXNlcm5hbWU6<EOL>
+20-05-19 22:27:56 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-19 22:27:56 << 334 UGFzc3dvcmQ6<EOL>
+20-05-19 22:27:56 >> a2lubnVrdXR0eQ==<EOL>
+20-05-19 22:27:58 << 235 2.7.0 Accepted<EOL>
+20-05-19 22:27:58 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-19 22:27:58 << 250 2.1.0 OK f29sm42790pgf.63 - gsmtp<EOL>
+20-05-19 22:27:58 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-19 22:27:58 << 250 2.1.5 OK f29sm42790pgf.63 - gsmtp<EOL>
+20-05-19 22:27:58 >> DATA<EOL>
+20-05-19 22:28:00 << 354  Go ahead f29sm42790pgf.63 - gsmtp<EOL>
+20-05-19 22:28:00 >> Date: Tue, 19 May 2020 22:28:00 +0530<EOL>
+20-05-19 22:28:00 >> To: project2020web@gmail.com<EOL>
+20-05-19 22:28:00 >> Subject: first mail<EOL>
+20-05-19 22:28:00 >> From:supritha.m.bhatt1999@gmail.com<EOL>
+20-05-19 22:28:00 >> <EOL>
+20-05-19 22:28:00 >> heya ur happy<EOL>
+20-05-19 22:28:00 >> .<EOL>
+20-05-19 22:28:01 << 250 2.0.0 OK  1589907480 f29sm42790pgf.63 - gsmtp<EOL>
+20-05-19 22:28:01 >> QUIT<EOL>
+20-05-19 22:28:02 << 221 2.0.0 closing connection f29sm42790pgf.63 - gsmtp<EOL>
+20-05-19 22:28:02 ** Disconnecting from smtp.gmail.com:465
+20-05-19 22:28:02 ** Disconnected.
+20-05-19 22:28:02 ** Disconnected.
+20-05-19 22:30:21 ** --- MESSAGE BEGIN ---
+20-05-19 22:30:21 ** To: project2020web@gmail.com
+20-05-19 22:30:21 ** Subject: hey
+20-05-19 22:30:21 ** From:supritha.m.bhatt1999@gmail.com
+20-05-19 22:30:21 ** 
+20-05-19 22:30:21 ** kio messaging u
+20-05-19 22:30:21 ** --- MESSAGE END ---
+20-05-19 22:30:21 ** Connecting to smtp.gmail.com:465
+20-05-19 22:30:22 ** Connected.
+20-05-19 22:30:22 << 220 smtp.gmail.com ESMTP s94sm129976pjb.20 - gsmtp<EOL>
+20-05-19 22:30:22 >> EHLO localhost<EOL>
+20-05-19 22:30:22 << 250-smtp.gmail.com at your service, [106.206.20.195]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-19 22:30:22 ** Authenticating as project2020web@gmail.com
+20-05-19 22:30:22 >> AUTH LOGIN<EOL>
+20-05-19 22:30:23 << 334 VXNlcm5hbWU6<EOL>
+20-05-19 22:30:23 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-19 22:30:23 << 334 UGFzc3dvcmQ6<EOL>
+20-05-19 22:30:23 >> a2lubnVrdXR0eQ==<EOL>
+20-05-19 22:30:24 << 235 2.7.0 Accepted<EOL>
+20-05-19 22:30:24 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-19 22:30:24 << 250 2.1.0 OK s94sm129976pjb.20 - gsmtp<EOL>
+20-05-19 22:30:24 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-19 22:30:28 << 250 2.1.5 OK s94sm129976pjb.20 - gsmtp<EOL>
+20-05-19 22:30:28 >> DATA<EOL>
+20-05-19 22:30:34 << 354  Go ahead s94sm129976pjb.20 - gsmtp<EOL>
+20-05-19 22:30:34 >> Date: Tue, 19 May 2020 22:30:34 +0530<EOL>
+20-05-19 22:30:34 >> To: project2020web@gmail.com<EOL>
+20-05-19 22:30:34 >> Subject: hey<EOL>
+20-05-19 22:30:34 >> From:supritha.m.bhatt1999@gmail.com<EOL>
+20-05-19 22:30:34 >> <EOL>
+20-05-19 22:30:34 >> kio messaging u<EOL>
+20-05-19 22:30:34 >> .<EOL>
+20-05-19 22:30:37 << 250 2.0.0 OK  1589907636 s94sm129976pjb.20 - gsmtp<EOL>
+20-05-19 22:30:37 >> QUIT<EOL>
+20-05-19 22:30:38 << 221 2.0.0 closing connection s94sm129976pjb.20 - gsmtp<EOL>
+20-05-19 22:30:38 ** Disconnecting from smtp.gmail.com:465
+20-05-19 22:30:38 ** Disconnected.
+20-05-19 22:30:38 ** Disconnected.
+20-05-19 22:33:18 ** --- MESSAGE BEGIN ---
+20-05-19 22:33:18 ** To: project2020web@gmail.com
+20-05-19 22:33:18 ** Subject: hey
+20-05-19 22:33:18 ** supritha.m.bhatt1999@gmail.com
+20-05-19 22:33:18 ** 
+20-05-19 22:33:18 ** kio messaging u sent from: supritha.m.bhatt1999@gmail.com
+20-05-19 22:33:18 ** --- MESSAGE END ---
+20-05-19 22:33:18 ** Message is missing sender's address
+20-05-19 22:33:21 ** --- MESSAGE BEGIN ---
+20-05-19 22:33:21 ** To: project2020web@gmail.com
+20-05-19 22:33:21 ** Subject: hey
+20-05-19 22:33:21 ** supritha.m.bhatt1999@gmail.com
+20-05-19 22:33:21 ** 
+20-05-19 22:33:21 ** kio messaging u sent from: supritha.m.bhatt1999@gmail.com
+20-05-19 22:33:21 ** --- MESSAGE END ---
+20-05-19 22:33:21 ** Message is missing sender's address
+20-05-19 22:33:54 ** --- MESSAGE BEGIN ---
+20-05-19 22:33:54 ** To: project2020web@gmail.com
+20-05-19 22:33:54 ** Subject: hey
+20-05-19 22:33:54 ** From:supritha.m.bhatt1999@gmail.com
+20-05-19 22:33:54 ** 
+20-05-19 22:33:54 ** kio messaging u sent from: supritha.m.bhatt1999@gmail.com
+20-05-19 22:33:54 ** --- MESSAGE END ---
+20-05-19 22:33:54 ** Connecting to smtp.gmail.com:465
+20-05-19 22:33:55 ** Connected.
+20-05-19 22:33:55 << 220 smtp.gmail.com ESMTP a30sm54201pgm.44 - gsmtp<EOL>
+20-05-19 22:33:55 >> EHLO localhost<EOL>
+20-05-19 22:33:56 << 250-smtp.gmail.com at your service, [106.206.20.195]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-19 22:33:56 ** Authenticating as project2020web@gmail.com
+20-05-19 22:33:56 >> AUTH LOGIN<EOL>
+20-05-19 22:33:56 << 334 VXNlcm5hbWU6<EOL>
+20-05-19 22:33:56 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-19 22:33:56 << 334 UGFzc3dvcmQ6<EOL>
+20-05-19 22:33:56 >> a2lubnVrdXR0eQ==<EOL>
+20-05-19 22:33:57 << 235 2.7.0 Accepted<EOL>
+20-05-19 22:33:57 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-19 22:34:02 << 250 2.1.0 OK a30sm54201pgm.44 - gsmtp<EOL>
+20-05-19 22:34:02 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-19 22:34:03 << 250 2.1.5 OK a30sm54201pgm.44 - gsmtp<EOL>
+20-05-19 22:34:03 >> DATA<EOL>
+20-05-19 22:34:06 << 354  Go ahead a30sm54201pgm.44 - gsmtp<EOL>
+20-05-19 22:34:06 >> Date: Tue, 19 May 2020 22:34:06 +0530<EOL>
+20-05-19 22:34:06 >> To: project2020web@gmail.com<EOL>
+20-05-19 22:34:06 >> Subject: hey<EOL>
+20-05-19 22:34:06 >> From:supritha.m.bhatt1999@gmail.com<EOL>
+20-05-19 22:34:06 >> <EOL>
+20-05-19 22:34:06 >> kio messaging u sent from: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-19 22:34:06 >> .<EOL>
+20-05-19 22:34:20 << 250 2.0.0 OK  1589907858 a30sm54201pgm.44 - gsmtp<EOL>
+20-05-19 22:34:20 >> QUIT<EOL>
+20-05-19 22:34:24 << 221 2.0.0 closing connection a30sm54201pgm.44 - gsmtp<EOL>
+20-05-19 22:34:24 ** Disconnecting from smtp.gmail.com:465
+20-05-19 22:34:24 ** Disconnected.
+20-05-19 22:34:24 ** Disconnected.
+20-05-19 22:39:53 ** --- MESSAGE BEGIN ---
+20-05-19 22:39:53 ** To: project2020web@gmail.com
+20-05-19 22:39:53 ** Subject: hey
+20-05-19 22:39:53 ** From:supritha.m.bhatt1999@gmail.com
+20-05-19 22:39:53 ** 
+20-05-19 22:39:53 ** kio messaging u sent from: supritha.m.bhatt1999@gmail.com
+20-05-19 22:39:53 ** --- MESSAGE END ---
+20-05-19 22:39:53 ** Connecting to smtp.gmail.com:465
+20-05-19 22:39:54 ** Connected.
+20-05-19 22:39:54 << 220 smtp.gmail.com ESMTP 19sm67180pgh.21 - gsmtp<EOL>
+20-05-19 22:39:54 >> EHLO localhost<EOL>
+20-05-19 22:39:54 << 250-smtp.gmail.com at your service, [106.206.20.195]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-19 22:39:54 ** Authenticating as project2020web@gmail.com
+20-05-19 22:39:54 >> AUTH LOGIN<EOL>
+20-05-19 22:39:54 << 334 VXNlcm5hbWU6<EOL>
+20-05-19 22:39:54 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-19 22:39:55 << 334 UGFzc3dvcmQ6<EOL>
+20-05-19 22:39:55 >> a2lubnVrdXR0eQ==<EOL>
+20-05-19 22:39:55 << 235 2.7.0 Accepted<EOL>
+20-05-19 22:39:55 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-19 22:39:56 << 250 2.1.0 OK 19sm67180pgh.21 - gsmtp<EOL>
+20-05-19 22:39:56 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-19 22:39:56 << 250 2.1.5 OK 19sm67180pgh.21 - gsmtp<EOL>
+20-05-19 22:39:56 >> DATA<EOL>
+20-05-19 22:39:57 << 354  Go ahead 19sm67180pgh.21 - gsmtp<EOL>
+20-05-19 22:39:57 >> Date: Tue, 19 May 2020 22:39:57 +0530<EOL>
+20-05-19 22:39:57 >> To: project2020web@gmail.com<EOL>
+20-05-19 22:39:57 >> Subject: hey<EOL>
+20-05-19 22:39:57 >> From:supritha.m.bhatt1999@gmail.com<EOL>
+20-05-19 22:39:57 >> <EOL>
+20-05-19 22:39:57 >> kio messaging u sent from: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-19 22:39:57 >> .<EOL>
+20-05-19 22:40:01 << 250 2.0.0 OK  1589908200 19sm67180pgh.21 - gsmtp<EOL>
+20-05-19 22:40:01 >> QUIT<EOL>
+20-05-19 22:40:02 << 221 2.0.0 closing connection 19sm67180pgh.21 - gsmtp<EOL>
+20-05-19 22:40:02 ** Disconnecting from smtp.gmail.com:465
+20-05-19 22:40:02 ** Disconnected.
+20-05-19 22:40:02 ** Disconnected.
+20-05-19 22:49:26 ** --- MESSAGE BEGIN ---
+20-05-19 22:49:26 ** To: project2020web@gmail.com
+20-05-19 22:49:26 ** Subject: jio
+20-05-19 22:49:26 ** From:ko@gmail.com
+20-05-19 22:49:26 ** 
+20-05-19 22:49:26 ** mesg sent from: ko@gmail.com
+20-05-19 22:49:26 ** --- MESSAGE END ---
+20-05-19 22:49:26 ** Connecting to smtp.gmail.com:465
+20-05-19 22:49:41 ** Disconnected.
+20-05-19 22:49:41 ** Disconnected.
+20-05-19 22:49:41 ** Disconnected.
+20-05-19 22:49:41 ** Socket Error # 11001<EOL>Host not found.
+20-05-19 22:51:59 ** --- MESSAGE BEGIN ---
+20-05-19 22:51:59 ** To: project2020web@gmail.com
+20-05-19 22:51:59 ** Subject: hey
+20-05-19 22:51:59 ** From:h@h.com
+20-05-19 22:51:59 ** 
+20-05-19 22:51:59 ** kio sent from: h@h.com
+20-05-19 22:51:59 ** --- MESSAGE END ---
+20-05-19 22:51:59 ** Connecting to smtp.gmail.com:465
+20-05-19 22:52:13 ** Disconnected.
+20-05-19 22:52:13 ** Disconnected.
+20-05-19 22:52:13 ** Disconnected.
+20-05-19 22:52:13 ** Socket Error # 11001<EOL>Host not found.
+20-05-19 22:53:48 ** --- MESSAGE BEGIN ---
+20-05-19 22:53:48 ** To: project2020web@gmail.com
+20-05-19 22:53:48 ** Subject: hey
+20-05-19 22:53:48 ** From:ji@gmail.com
+20-05-19 22:53:48 ** 
+20-05-19 22:53:48 ** kio sent from: ji@gmail.com
+20-05-19 22:53:48 ** --- MESSAGE END ---
+20-05-19 22:53:48 ** Connecting to smtp.gmail.com:465
+20-05-19 22:54:02 ** Disconnected.
+20-05-19 22:54:02 ** Disconnected.
+20-05-19 22:54:02 ** Disconnected.
+20-05-19 22:54:02 ** Socket Error # 11001<EOL>Host not found.
+20-05-19 22:54:38 ** --- MESSAGE BEGIN ---
+20-05-19 22:54:38 ** To: project2020web@gmail.com
+20-05-19 22:54:38 ** Subject: hey
+20-05-19 22:54:38 ** From:msbhatt1960@gmail.com
+20-05-19 22:54:38 ** 
+20-05-19 22:54:38 ** kio sent from: msbhatt1960@gmail.com
+20-05-19 22:54:38 ** --- MESSAGE END ---
+20-05-19 22:54:39 ** Connecting to smtp.gmail.com:465
+20-05-19 22:54:53 ** Disconnected.
+20-05-19 22:54:53 ** Disconnected.
+20-05-19 22:54:53 ** Disconnected.
+20-05-19 22:54:53 ** Socket Error # 11001<EOL>Host not found.
+20-05-19 22:56:33 ** --- MESSAGE BEGIN ---
+20-05-19 22:56:33 ** To: project2020web@gmail.com
+20-05-19 22:56:33 ** Subject: hey
+20-05-19 22:56:33 ** From:supritha.m.bhatt1999@gmail.com
+20-05-19 22:56:33 ** 
+20-05-19 22:56:33 ** kio sent from: supritha.m.bhatt1999@gmail.com
+20-05-19 22:56:33 ** --- MESSAGE END ---
+20-05-19 22:56:33 ** Connecting to smtp.gmail.com:465
+20-05-19 22:56:47 ** Disconnected.
+20-05-19 22:56:47 ** Disconnected.
+20-05-19 22:56:47 ** Disconnected.
+20-05-19 22:56:47 ** Socket Error # 11001<EOL>Host not found.
+20-05-19 22:58:15 ** --- MESSAGE BEGIN ---
+20-05-19 22:58:15 ** To: project2020web@gmail.com
+20-05-19 22:58:15 ** Subject: hey
+20-05-19 22:58:15 ** From:supritha.m.bhatt1999@gmail.com
+20-05-19 22:58:15 ** 
+20-05-19 22:58:15 ** kio sent from: supritha.m.bhatt1999@gmail.com
+20-05-19 22:58:15 ** --- MESSAGE END ---
+20-05-19 22:58:15 ** Connecting to smtp.gmail.com:465
+20-05-19 22:58:29 ** Disconnected.
+20-05-19 22:58:29 ** Disconnected.
+20-05-19 22:58:29 ** Disconnected.
+20-05-19 22:58:29 ** Socket Error # 11001<EOL>Host not found.
+20-05-19 22:59:13 ** --- MESSAGE BEGIN ---
+20-05-19 22:59:13 ** To: supritha.m.bhatt1999@gmail.com
+20-05-19 22:59:13 ** Subject: first mail
+20-05-19 22:59:13 ** From: project2020web@gmail.com
+20-05-19 22:59:13 ** 
+20-05-19 22:59:13 ** heya ur happy
+20-05-19 22:59:13 ** --- MESSAGE END ---
+20-05-19 22:59:13 ** Connecting to smtp.gmail.com:465
+20-05-19 22:59:28 ** Disconnected.
+20-05-19 22:59:28 ** Disconnected.
+20-05-19 22:59:28 ** Disconnected.
+20-05-19 22:59:28 ** Socket Error # 11001<EOL>Host not found.
+20-05-20 16:20:44 ** --- MESSAGE BEGIN ---
+20-05-20 16:20:44 ** To: project2020web@gmail.com
+20-05-20 16:20:44 ** Subject: sending in
+20-05-20 16:20:44 ** From:supritha.m.bhatt1999@gmail.com
+20-05-20 16:20:44 ** 
+20-05-20 16:20:44 ** heya girls sent from: supritha.m.bhatt1999@gmail.com
+20-05-20 16:20:44 ** --- MESSAGE END ---
+20-05-20 16:20:45 ** Connecting to smtp.gmail.com:465
+20-05-20 16:20:47 ** Disconnected.
+20-05-20 16:20:47 ** Disconnected.
+20-05-20 16:20:47 ** Disconnected.
+20-05-20 16:20:47 ** Socket Error # 10060<EOL>Connection timed out.
+20-05-20 16:21:22 ** --- MESSAGE BEGIN ---
+20-05-20 16:21:22 ** To: project2020web@gmail.com
+20-05-20 16:21:22 ** Subject: sending in
+20-05-20 16:21:22 ** From:supritha.m.bhatt1999@gmail.com
+20-05-20 16:21:22 ** 
+20-05-20 16:21:22 ** heya girls sent from: supritha.m.bhatt1999@gmail.com
+20-05-20 16:21:22 ** --- MESSAGE END ---
+20-05-20 16:21:22 ** Connecting to smtp.gmail.com:465
+20-05-20 16:21:32 ** Disconnected.
+20-05-20 16:21:32 ** Disconnected.
+20-05-20 16:21:32 ** Disconnected.
+20-05-20 16:21:32 ** Disconnected.
+20-05-20 16:21:32 ** Connect timed out.
+20-05-20 16:28:17 ** --- MESSAGE BEGIN ---
+20-05-20 16:28:17 ** To: supritha.m.bhatt1999@gmail.com
+20-05-20 16:28:17 ** Subject: first mail
+20-05-20 16:28:17 ** From: project2020web@gmail.com
+20-05-20 16:28:17 ** 
+20-05-20 16:28:17 ** heya ur happy
+20-05-20 16:28:17 ** --- MESSAGE END ---
+20-05-20 16:28:18 ** Connecting to smtp.gmail.com:465
+20-05-20 16:28:21 ** Connected.
+20-05-20 16:28:22 << 220 smtp.gmail.com ESMTP jx10sm1860779pjb.46 - gsmtp<EOL>
+20-05-20 16:28:22 >> EHLO localhost<EOL>
+20-05-20 16:28:25 << 250-smtp.gmail.com at your service, [106.206.20.195]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-20 16:28:25 ** Authenticating as project2020web@gmail.com
+20-05-20 16:28:25 >> AUTH LOGIN<EOL>
+20-05-20 16:28:28 << 334 VXNlcm5hbWU6<EOL>
+20-05-20 16:28:28 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-20 16:28:32 << 334 UGFzc3dvcmQ6<EOL>
+20-05-20 16:28:32 >> a2lubnVrdXR0eQ==<EOL>
+20-05-20 16:28:36 << 235 2.7.0 Accepted<EOL>
+20-05-20 16:28:36 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-20 16:28:40 << 250 2.1.0 OK jx10sm1860779pjb.46 - gsmtp<EOL>
+20-05-20 16:28:40 >> RCPT TO: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-20 16:29:07 << 250 2.1.5 OK jx10sm1860779pjb.46 - gsmtp<EOL>
+20-05-20 16:29:07 >> DATA<EOL>
+20-05-20 16:29:08 << 354  Go ahead jx10sm1860779pjb.46 - gsmtp<EOL>
+20-05-20 16:29:08 >> Date: Wed, 20 May 2020 16:29:08 +0530<EOL>
+20-05-20 16:29:08 >> To: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-20 16:29:08 >> Subject: first mail<EOL>
+20-05-20 16:29:08 >> From: project2020web@gmail.com<EOL>
+20-05-20 16:29:08 >> <EOL>
+20-05-20 16:29:08 >> heya ur happy<EOL>
+20-05-20 16:29:08 >> .<EOL>
+20-05-20 16:29:09 << 250 2.0.0 OK  1589972348 jx10sm1860779pjb.46 - gsmtp<EOL>
+20-05-20 16:29:09 >> QUIT<EOL>
+20-05-20 16:29:10 << 221 2.0.0 closing connection jx10sm1860779pjb.46 - gsmtp<EOL>
+20-05-20 16:29:10 ** Disconnected.
+20-05-20 16:29:10 ** Disconnected.
+20-05-20 16:29:10 ** Disconnected.
+20-05-20 16:31:51 ** --- MESSAGE BEGIN ---
+20-05-20 16:31:51 ** To: project2020web@gmail.com
+20-05-20 16:31:51 ** Subject: sending in
+20-05-20 16:31:51 ** From:supritha.m.bhatt1999@gmail.com
+20-05-20 16:31:51 ** 
+20-05-20 16:31:51 ** heya gal sent from: supritha.m.bhatt1999@gmail.com
+20-05-20 16:31:51 ** --- MESSAGE END ---
+20-05-20 16:31:51 ** Connecting to smtp.gmail.com:465
+20-05-20 16:31:51 ** Connected.
+20-05-20 16:31:51 << 220 smtp.gmail.com ESMTP n2sm1953526pfe.161 - gsmtp<EOL>
+20-05-20 16:31:51 >> EHLO localhost<EOL>
+20-05-20 16:31:52 << 250-smtp.gmail.com at your service, [106.206.20.195]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-20 16:31:52 ** Authenticating as project2020web@gmail.com
+20-05-20 16:31:52 >> AUTH LOGIN<EOL>
+20-05-20 16:31:52 << 334 VXNlcm5hbWU6<EOL>
+20-05-20 16:31:52 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-20 16:31:52 << 334 UGFzc3dvcmQ6<EOL>
+20-05-20 16:31:52 >> a2lubnVrdXR0eQ==<EOL>
+20-05-20 16:31:53 << 235 2.7.0 Accepted<EOL>
+20-05-20 16:31:53 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-20 16:31:55 << 250 2.1.0 OK n2sm1953526pfe.161 - gsmtp<EOL>
+20-05-20 16:31:55 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-20 16:31:59 << 250 2.1.5 OK n2sm1953526pfe.161 - gsmtp<EOL>
+20-05-20 16:31:59 >> DATA<EOL>
+20-05-20 16:32:01 << 354  Go ahead n2sm1953526pfe.161 - gsmtp<EOL>
+20-05-20 16:32:01 >> Date: Wed, 20 May 2020 16:32:01 +0530<EOL>
+20-05-20 16:32:01 >> To: project2020web@gmail.com<EOL>
+20-05-20 16:32:01 >> Subject: sending in<EOL>
+20-05-20 16:32:01 >> From:supritha.m.bhatt1999@gmail.com<EOL>
+20-05-20 16:32:01 >> <EOL>
+20-05-20 16:32:01 >> heya gal sent from: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-20 16:32:01 >> .<EOL>
+20-05-20 16:32:03 << 250 2.0.0 OK  1589972520 n2sm1953526pfe.161 - gsmtp<EOL>
+20-05-20 16:32:03 >> QUIT<EOL>
+20-05-20 16:32:03 << 221 2.0.0 closing connection n2sm1953526pfe.161 - gsmtp<EOL>
+20-05-20 16:32:03 ** Disconnected.
+20-05-20 16:32:03 ** Disconnected.
+20-05-20 16:32:03 ** Disconnected.
+20-05-20 23:38:51 ** --- MESSAGE BEGIN ---
+20-05-20 23:38:51 ** To: project2020web@gmail.com
+20-05-20 23:38:51 ** Subject: try me
+20-05-20 23:38:51 ** Date: Wed, 20 May 2020 18:08:50 +0000
+20-05-20 23:38:51 ** From: supritha.m.bhatt1999@gmail.com
+20-05-20 23:38:51 ** Message-ID: <7cafe7cfb4b33b44ce7dcb8186632d54@localhost>
+20-05-20 23:38:51 ** X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)
+20-05-20 23:38:51 ** MIME-Version: 1.0
+20-05-20 23:38:51 ** Content-Type: text/plain; charset=iso-8859-1
+20-05-20 23:38:51 ** 
+20-05-20 23:38:51 ** message ya
+20-05-20 23:38:51 ** 
+20-05-20 23:38:51 ** --- MESSAGE END ---
+20-05-20 23:38:51 ** Connecting to smtp.gmail.com:465
+20-05-20 23:38:51 ** Connected.
+20-05-20 23:38:52 << 220 smtp.gmail.com ESMTP z20sm1226314pjn.53 - gsmtp<EOL>
+20-05-20 23:38:52 >> EHLO localhost<EOL>
+20-05-20 23:38:52 << 250-smtp.gmail.com at your service, [106.206.20.195]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-20 23:38:52 ** Authenticating as project2020web@gmail.com
+20-05-20 23:38:52 >> AUTH LOGIN<EOL>
+20-05-20 23:38:52 << 334 VXNlcm5hbWU6<EOL>
+20-05-20 23:38:52 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-20 23:38:53 << 334 UGFzc3dvcmQ6<EOL>
+20-05-20 23:38:53 >> a2lubnVrdXR0eQ==<EOL>
+20-05-20 23:38:53 << 235 2.7.0 Accepted<EOL>
+20-05-20 23:38:53 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-20 23:38:53 << 250 2.1.0 OK z20sm1226314pjn.53 - gsmtp<EOL>
+20-05-20 23:38:53 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-20 23:38:54 << 250 2.1.5 OK z20sm1226314pjn.53 - gsmtp<EOL>
+20-05-20 23:38:54 >> DATA<EOL>
+20-05-20 23:38:55 << 354  Go ahead z20sm1226314pjn.53 - gsmtp<EOL>
+20-05-20 23:38:55 >> To: project2020web@gmail.com<EOL>
+20-05-20 23:38:55 >> Subject: try me<EOL>
+20-05-20 23:38:55 >> Date: Wed, 20 May 2020 18:08:50 +0000<EOL>
+20-05-20 23:38:55 >> From: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-20 23:38:55 >> Message-ID: <7cafe7cfb4b33b44ce7dcb8186632d54@localhost><EOL>
+20-05-20 23:38:55 >> X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)<EOL>
+20-05-20 23:38:55 >> MIME-Version: 1.0<EOL>
+20-05-20 23:38:55 >> Content-Type: text/plain; charset=iso-8859-1<EOL>
+20-05-20 23:38:55 >> <EOL>
+20-05-20 23:38:55 >> message ya<EOL>
+20-05-20 23:38:55 >> <EOL>
+20-05-20 23:38:55 >> .<EOL>
+20-05-20 23:38:57 << 250 2.0.0 OK  1589998135 z20sm1226314pjn.53 - gsmtp<EOL>
+20-05-20 23:38:57 >> QUIT<EOL>
+20-05-20 23:38:58 << 221 2.0.0 closing connection z20sm1226314pjn.53 - gsmtp<EOL>
+20-05-20 23:38:58 ** Disconnected.
+20-05-20 23:38:58 ** Disconnected.
+20-05-20 23:38:58 ** Disconnected.
+20-05-20 23:40:49 ** --- MESSAGE BEGIN ---
+20-05-20 23:40:49 ** To: msbhatt1960@gmail.com
+20-05-20 23:40:49 ** Subject: try me
+20-05-20 23:40:49 ** Date: Wed, 20 May 2020 18:10:48 +0000
+20-05-20 23:40:49 ** From: supritha.m.bhatt1999@gmail.com
+20-05-20 23:40:49 ** Message-ID: <6f7ba1fd55dc9a1de9cc24523d74d504@localhost>
+20-05-20 23:40:49 ** X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)
+20-05-20 23:40:49 ** MIME-Version: 1.0
+20-05-20 23:40:49 ** Content-Type: text/plain; charset=iso-8859-1
+20-05-20 23:40:49 ** 
+20-05-20 23:40:49 ** message ya
+20-05-20 23:40:49 ** 
+20-05-20 23:40:49 ** --- MESSAGE END ---
+20-05-20 23:40:49 ** Connecting to smtp.gmail.com:465
+20-05-20 23:41:03 ** Disconnected.
+20-05-20 23:41:03 ** Disconnected.
+20-05-20 23:41:03 ** Disconnected.
+20-05-20 23:41:03 ** Socket Error # 11001<EOL>Host not found.
+20-05-21 12:37:36 ** --- MESSAGE BEGIN ---
+20-05-21 12:37:36 ** To: project2020web@gmail.com
+20-05-21 12:37:36 ** Subject: Payment done -Reciept
+20-05-21 12:37:36 ** Date: Thu, 21 May 2020 07:07:35 +0000
+20-05-21 12:37:36 ** From: supritha.m.bhatt1999@gmail.com
+20-05-21 12:37:36 ** Message-ID: <3002194171ddf7c08d207815a74a6935@localhost>
+20-05-21 12:37:36 ** X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)
+20-05-21 12:37:36 ** MIME-Version: 1.0
+20-05-21 12:37:36 ** Content-Type: text/plain; charset=iso-8859-1
+20-05-21 12:37:36 ** 
+20-05-21 12:37:36 ** Payment has been recieved from supritha.m.bhatt1999@gmail.com
+20-05-21 12:37:36 ** 
+20-05-21 12:37:36 ** --- MESSAGE END ---
+20-05-21 12:37:36 ** Connecting to smtp.gmail.com:465
+20-05-21 12:37:37 ** Connected.
+20-05-21 12:37:37 << 220 smtp.gmail.com ESMTP m14sm3278638pgn.83 - gsmtp<EOL>
+20-05-21 12:37:37 >> EHLO localhost<EOL>
+20-05-21 12:37:38 << 250-smtp.gmail.com at your service, [106.206.66.7]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-21 12:37:38 ** Authenticating as project2020web@gmail.com
+20-05-21 12:37:38 >> AUTH LOGIN<EOL>
+20-05-21 12:37:38 << 334 VXNlcm5hbWU6<EOL>
+20-05-21 12:37:38 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-21 12:37:38 << 334 UGFzc3dvcmQ6<EOL>
+20-05-21 12:37:38 >> a2lubnVrdXR0eQ==<EOL>
+20-05-21 12:37:39 << 235 2.7.0 Accepted<EOL>
+20-05-21 12:37:39 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-21 12:37:40 << 250 2.1.0 OK m14sm3278638pgn.83 - gsmtp<EOL>
+20-05-21 12:37:40 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-21 12:37:40 << 250 2.1.5 OK m14sm3278638pgn.83 - gsmtp<EOL>
+20-05-21 12:37:40 >> DATA<EOL>
+20-05-21 12:37:41 << 421 4.3.0 Temporary System Problem.  Try again later (10). m14sm3278638pgn.83 - gsmtp<EOL>
+20-05-21 12:37:41 ** Disconnecting from smtp.gmail.com:465
+20-05-21 12:37:41 ** Disconnected.
+20-05-21 12:37:41 ** Disconnected.
+20-05-21 12:37:41 ** Temporary System Problem.  Try again later (10). m14sm3278638pgn.83 - gsmtp<EOL>
+20-05-21 12:39:58 ** --- MESSAGE BEGIN ---
+20-05-21 12:39:58 ** To: project2020web@gmail.com
+20-05-21 12:39:58 ** Subject: Payment done -Reciept
+20-05-21 12:39:58 ** Date: Thu, 21 May 2020 07:09:57 +0000
+20-05-21 12:39:58 ** From: supritha.m.bhatt1999@gmail.com
+20-05-21 12:39:58 ** Message-ID: <34012a5fcd916033c8fcaf106e897ef0@localhost>
+20-05-21 12:39:58 ** X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)
+20-05-21 12:39:58 ** MIME-Version: 1.0
+20-05-21 12:39:58 ** Content-Type: text/plain; charset=iso-8859-1
+20-05-21 12:39:58 ** 
+20-05-21 12:39:58 ** Payment has been recieved from supritha.m.bhatt1999@gmail.com
+20-05-21 12:39:58 ** 
+20-05-21 12:39:58 ** --- MESSAGE END ---
+20-05-21 12:39:58 ** Connecting to smtp.gmail.com:465
+20-05-21 12:39:58 ** Connected.
+20-05-21 12:39:59 << 220 smtp.gmail.com ESMTP ay15sm3646899pjb.18 - gsmtp<EOL>
+20-05-21 12:39:59 >> EHLO localhost<EOL>
+20-05-21 12:39:59 << 250-smtp.gmail.com at your service, [106.206.66.7]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-21 12:39:59 ** Authenticating as project2020web@gmail.com
+20-05-21 12:39:59 >> AUTH LOGIN<EOL>
+20-05-21 12:39:59 << 334 VXNlcm5hbWU6<EOL>
+20-05-21 12:39:59 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-21 12:40:00 << 334 UGFzc3dvcmQ6<EOL>
+20-05-21 12:40:00 >> a2lubnVrdXR0eQ==<EOL>
+20-05-21 12:40:00 << 235 2.7.0 Accepted<EOL>
+20-05-21 12:40:00 >> MAIL FROM: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-21 12:40:01 << 250 2.1.0 OK ay15sm3646899pjb.18 - gsmtp<EOL>
+20-05-21 12:40:01 >> RCPT TO: <project2020web@gmail.com><EOL>
+20-05-21 12:40:01 << 250 2.1.5 OK ay15sm3646899pjb.18 - gsmtp<EOL>
+20-05-21 12:40:01 >> DATA<EOL>
+20-05-21 12:40:04 << 354  Go ahead ay15sm3646899pjb.18 - gsmtp<EOL>
+20-05-21 12:40:04 >> To: project2020web@gmail.com<EOL>
+20-05-21 12:40:04 >> Subject: Payment done -Reciept<EOL>
+20-05-21 12:40:04 >> Date: Thu, 21 May 2020 07:09:57 +0000<EOL>
+20-05-21 12:40:04 >> From: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-21 12:40:04 >> Message-ID: <34012a5fcd916033c8fcaf106e897ef0@localhost><EOL>
+20-05-21 12:40:04 >> X-Mailer: PHPMailer 5.2.28 (https://github.com/PHPMailer/PHPMailer)<EOL>
+20-05-21 12:40:04 >> MIME-Version: 1.0<EOL>
+20-05-21 12:40:04 >> Content-Type: text/plain; charset=iso-8859-1<EOL>
+20-05-21 12:40:04 >> <EOL>
+20-05-21 12:40:04 >> Payment has been recieved from supritha.m.bhatt1999@gmail.com<EOL>
+20-05-21 12:40:04 >> <EOL>
+20-05-21 12:40:04 >> .<EOL>
+20-05-21 12:40:10 << 250 2.0.0 OK  1590045005 ay15sm3646899pjb.18 - gsmtp<EOL>
+20-05-21 12:40:10 >> QUIT<EOL>
+20-05-21 12:40:11 << 221 2.0.0 closing connection ay15sm3646899pjb.18 - gsmtp<EOL>
+20-05-21 12:40:11 ** Disconnecting from smtp.gmail.com:465
+20-05-21 12:40:11 ** Disconnected.
+20-05-21 12:40:11 ** Disconnected.
+20-05-21 12:40:11 ** --- MESSAGE BEGIN ---
+20-05-21 12:40:11 ** To: supritha.m.bhatt1999@gmail.com
+20-05-21 12:40:11 ** Subject: Thank you for making the payment
+20-05-21 12:40:11 ** From: project2020web@gmail.com
+20-05-21 12:40:11 ** 
+20-05-21 12:40:11 ** Good day, Thank you for making the payment of Rs.100 . Kindly wait till your PRIME ACCOUNT gets activated by our admin.
+20-05-21 12:40:11 ** 								You are going to recieve a activation mail once its done.
+20-05-21 12:40:11 ** 								We will appriciate your patience.
+20-05-21 12:40:11 ** 							-Hitched.com
+20-05-21 12:40:11 ** --- MESSAGE END ---
+20-05-21 12:40:11 ** Connecting to smtp.gmail.com:465
+20-05-21 12:40:13 ** Disconnected.
+20-05-21 12:40:13 ** Disconnected.
+20-05-21 12:40:13 ** Disconnected.
+20-05-21 12:40:13 ** Socket Error # 10060<EOL>Connection timed out.
+20-05-21 13:47:13 ** --- MESSAGE BEGIN ---
+20-05-21 13:47:13 ** To: msbhatt1960@gmail.com
+20-05-21 13:47:13 ** Subject: Access Denied
+20-05-21 13:47:13 ** From: project2020web@gmail.com
+20-05-21 13:47:13 ** 
+20-05-21 13:47:13 ** hey there, We are NOT permitting your acces to PRIME ACCOUNT in our website. Kindly send us the right payment receipt if your transaction was successful.
+20-05-21 13:47:13 ** 													-Hitched.com
+20-05-21 13:47:13 ** --- MESSAGE END ---
+20-05-21 13:47:13 ** Connecting to smtp.gmail.com:465
+20-05-21 13:47:15 ** Connected.
+20-05-21 13:47:15 << 220 smtp.gmail.com ESMTP w26sm2669213pfj.20 - gsmtp<EOL>
+20-05-21 13:47:15 >> EHLO localhost<EOL>
+20-05-21 13:47:15 << 250-smtp.gmail.com at your service, [106.206.66.7]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-21 13:47:15 ** Authenticating as project2020web@gmail.com
+20-05-21 13:47:15 >> AUTH LOGIN<EOL>
+20-05-21 13:47:16 << 334 VXNlcm5hbWU6<EOL>
+20-05-21 13:47:16 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-21 13:47:16 << 334 UGFzc3dvcmQ6<EOL>
+20-05-21 13:47:16 >> a2lubnVrdXR0eQ==<EOL>
+20-05-21 13:47:17 << 235 2.7.0 Accepted<EOL>
+20-05-21 13:47:17 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-21 13:47:30 << 250 2.1.0 OK w26sm2669213pfj.20 - gsmtp<EOL>
+20-05-21 13:47:30 >> RCPT TO: <msbhatt1960@gmail.com><EOL>
+20-05-21 13:47:30 << 250 2.1.5 OK w26sm2669213pfj.20 - gsmtp<EOL>
+20-05-21 13:47:30 >> DATA<EOL>
+20-05-21 13:47:31 << 354  Go ahead w26sm2669213pfj.20 - gsmtp<EOL>
+20-05-21 13:47:31 >> Date: Thu, 21 May 2020 13:47:31 +0530<EOL>
+20-05-21 13:47:31 >> To: msbhatt1960@gmail.com<EOL>
+20-05-21 13:47:31 >> Subject: Access Denied<EOL>
+20-05-21 13:47:31 >> From: project2020web@gmail.com<EOL>
+20-05-21 13:47:31 >> <EOL>
+20-05-21 13:47:31 >> hey there, We are NOT permitting your acces to PRIME ACCOUNT in our website. Kindly send us the right payment receipt if your transaction was successful.<EOL>
+20-05-21 13:47:31 >> 													-Hitched.com<EOL>
+20-05-21 13:47:31 >> .<EOL>
+20-05-21 13:47:33 << 250 2.0.0 OK  1590049050 w26sm2669213pfj.20 - gsmtp<EOL>
+20-05-21 13:47:33 >> QUIT<EOL>
+20-05-21 13:47:34 << 221 2.0.0 closing connection w26sm2669213pfj.20 - gsmtp<EOL>
+20-05-21 13:47:34 ** Disconnected.
+20-05-21 13:47:34 ** Disconnected.
+20-05-21 13:47:34 ** Disconnected.
+20-05-21 13:56:15 ** --- MESSAGE BEGIN ---
+20-05-21 13:56:15 ** To: supritha.m.bhatt1999@gmail.com
+20-05-21 13:56:15 ** Subject: You are now a PRIME USER
+20-05-21 13:56:15 ** From: project2020web@gmail.com
+20-05-21 13:56:15 ** 
+20-05-21 13:56:15 ** hey there, We are permitting your acces as PRIME USER in our website. 
+20-05-21 13:56:15 ** 				Thank you for your payment , we hope ull enjoy our services.
+20-05-21 13:56:15 ** 				Kindly login and enjoy our services.
+20-05-21 13:56:15 ** 				-Hitched.com
+20-05-21 13:56:15 ** --- MESSAGE END ---
+20-05-21 13:56:15 ** Connecting to smtp.gmail.com:465
+20-05-21 13:56:16 ** Connected.
+20-05-21 13:56:16 << 220 smtp.gmail.com ESMTP z18sm3998133pfj.148 - gsmtp<EOL>
+20-05-21 13:56:16 >> EHLO localhost<EOL>
+20-05-21 13:56:18 << 250-smtp.gmail.com at your service, [106.206.66.7]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20-05-21 13:56:18 ** Authenticating as project2020web@gmail.com
+20-05-21 13:56:18 >> AUTH LOGIN<EOL>
+20-05-21 13:56:18 << 334 VXNlcm5hbWU6<EOL>
+20-05-21 13:56:18 >> cHJvamVjdDIwMjB3ZWJAZ21haWwuY29t<EOL>
+20-05-21 13:56:19 << 334 UGFzc3dvcmQ6<EOL>
+20-05-21 13:56:19 >> a2lubnVrdXR0eQ==<EOL>
+20-05-21 13:56:20 << 235 2.7.0 Accepted<EOL>
+20-05-21 13:56:20 >> MAIL FROM: <project2020web@gmail.com><EOL>
+20-05-21 13:56:20 << 250 2.1.0 OK z18sm3998133pfj.148 - gsmtp<EOL>
+20-05-21 13:56:20 >> RCPT TO: <supritha.m.bhatt1999@gmail.com><EOL>
+20-05-21 13:56:21 << 250 2.1.5 OK z18sm3998133pfj.148 - gsmtp<EOL>
+20-05-21 13:56:21 >> DATA<EOL>
+20-05-21 13:56:22 << 354  Go ahead z18sm3998133pfj.148 - gsmtp<EOL>
+20-05-21 13:56:22 >> Date: Thu, 21 May 2020 13:56:22 +0530<EOL>
+20-05-21 13:56:22 >> To: supritha.m.bhatt1999@gmail.com<EOL>
+20-05-21 13:56:22 >> Subject: You are now a PRIME USER<EOL>
+20-05-21 13:56:22 >> From: project2020web@gmail.com<EOL>
+20-05-21 13:56:22 >> <EOL>
+20-05-21 13:56:22 >> hey there, We are permitting your acces as PRIME USER in our website. <EOL>
+20-05-21 13:56:22 >> 				Thank you for your payment , we hope ull enjoy our services.<EOL>
+20-05-21 13:56:22 >> 				Kindly login and enjoy our services.<EOL>
+20-05-21 13:56:22 >> 				-Hitched.com<EOL>
+20-05-21 13:56:22 >> .<EOL>
+20-05-21 13:56:24 << 250 2.0.0 OK  1590049582 z18sm3998133pfj.148 - gsmtp<EOL>
+20-05-21 13:56:24 >> QUIT<EOL>
+20-05-21 13:56:30 << 221 2.0.0 closing connection z18sm3998133pfj.148 - gsmtp<EOL>
+20-05-21 13:56:30 ** Disconnecting from smtp.gmail.com:465
+20-05-21 13:56:30 ** Disconnected.
+20-05-21 13:56:30 ** Disconnected.
